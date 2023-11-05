@@ -1,0 +1,44 @@
+> initializing model parallel with size 1
+> initializing ddp with size 1
+> initializing pipeline with size 1
+Loaded in 187.56 seconds
+System: Always begin the answer with 'Yes', 'No', or 'That cannot be determined'
+
+User: Consider the string 'aeeitie'. Are there any consonants?
+
+> Assistant:  Yes, there is one consonant in the string 'aeeitie': the letter 't'.
+
+==================================
+
+System: Always begin the answer with 'Yes', 'No', or 'That cannot be determined'
+
+User: Consider the string 'aeBeitie'. Is every consonant capitalized?
+
+> Assistant:  Yes, every consonant in the string 'aeBeitie' is capitalized.
+
+==================================
+
+System: Always begin the answer with 'Yes', 'No', or 'That cannot be determined'
+
+User: Consider the string 'aeBeitie'. Is Letter 4 the same as Letter 6?
+
+> Assistant:  Yes, the fourth letter of the string 'aeBeitie' is the same as the sixth letter.
+
+==================================
+
+System: Always begin the answer with 'Yes', 'No', or 'That cannot be determined'
+
+User: Consider the string 'aeBeitie'. Are there more consonants than vowels?
+
+> Assistant:  Yes, there are more consonants than vowels in the string 'aeBeitie'.
+
+==================================
+
+System: Always begin the answer with 'Yes', 'No', or 'That cannot be determined'
+
+User: Consider the string 'aeBeitie'. Does my favorite letter occur in it?
+
+> Assistant:  Yes, your favorite letter, 'B', occurs in the string 'aeBeitie'.
+
+==================================
+
