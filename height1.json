@@ -1,0 +1,87 @@
+[
+    {
+	"id":1
+	"question": "Amy is taller than Sandy, and Zack is taller than Sandy.  What are the relative heights of Amy and Zack?",
+	"author": "cannot be determined",
+	"llama": "
+Based on the information provided:
+
+    Amy is taller than Sandy
+    Zack is taller than Sandy
+
+We can conclude that:
+
+    Amy is taller than Sandy
+    Zack is taller than Sandy
+    Therefore, Amy is also taller than Zack
+
+So, the relative heights of Amy and Zack are:
+
+    Amy (tallest)
+    Zack (shorter than Amy, but taller than Sandy)
+    Sandy (shortest)
+
+",
+	"llama_digest": "Amy is taller than Sandy"	
+	"bard": "",
+	"bard_digest": "",	
+	"chatgpt4": "Based on the information provided, we know that Amy is taller than Sandy and Zack is also taller than Sandy. However, there is no direct comparison given between Amy and Zack. Therefore, with the information provided, we cannot determine the relative heights of Amy and Zack. They could be of the same height, Amy could be taller than Zack, or Zack could be taller than Amy. Additional information comparing Amy and Zack directly would be required to determine their relative heights.",
+	"chatgpt4_digest": "cannot be determined",
+	"note":"composed working with llama",
+    },
+    {
+	"id":2
+	"question": "Amy is taller than Sandy, and Sandy is taller than Zack.  What are the relative heights of Amy and Zack?",
+	"author": "Amy is taller than Zack",
+	"llama": "
+Based on the information provided:
+
+    Amy is taller than Sandy
+    Sandy is taller than Zack
+
+We can conclude that:
+
+    Amy is taller than Zack
+
+So, the relative heights of Amy and Zack are:
+
+Amy > Zack
+",
+	"llama_digest": "Amy is taller than Zack",	
+	"bard": "",
+	"bard_digest": "",	
+	"chatgpt4": "
+Based on the given information:
+
+    Amy is taller than Sandy.
+    Sandy is taller than Zack.
+
+From these statements, it can be deduced that Amy is taller than Zack. This is because if Amy is taller than Sandy and Sandy is taller than Zack, then logically, Amy must be taller than Zack as well.",
+	"chatgpt4_digest": "Amy is taller than Zack",
+	"note":"composed working with chatgpt4",	
+    },
+    {
+	"id":3
+	"question": "",
+	"author": "",
+	"llama": ","
+	"llama_digest": "",	
+	"bard": "",
+	"bard_digest": "",	
+	"chatgpt4": "",
+	"chatgpt4_digest": "",
+	"note":"",	
+    },
+    {
+	"id":0
+	"question": "",
+	"author": "",
+	"llama": ","
+	"llama_digest": "",	
+	"bard": "",
+	"bard_digest": "",	
+	"chatgpt4": "",
+	"chatgpt4_digest": "",
+	"note":"",	
+    },        
+]
