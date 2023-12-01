@@ -10,11 +10,23 @@ srun --partition=gpu-interactive --gpus=a5000:1 --mem=16000 --pty /bin/bash
 gave me ju-compute-01
 ```
 
-Then source env/llama/bin/activate, and cd to /share/compling/speech/llama.
-
 ## Run the demo
 
+Then source env/llama/bin/activate, and cd to /share/compling/speech/llama.
 torchrun --nproc_per_node 1 example_chat_completion.py --ckpt_dir llama-2-7b-chat/ --tokenizer_path tokenizer.model --max_seq_len 512 --max_batch_size 6 > example_chat_completion.out
+
+
+## Try 13b
+Perhaps we need 2 gpus and 2 nproc_per_node
+
+srun --partition=compling --gpus=a5000:2 --mem=32000 --pty /bin/bash
+torchrun --nproc_per_node 2 string1.py --ckpt_dir llama-2-13b-chat/ --tokenizer_path tokenizer.model --max_seq_len 512 --max_batch_size 6 
+
+This works! It failed with --mem=16000. According to
+https://github.com/facebookresearch/llama/issues/603, the model gets loaded into CPU before being transferred to GPU.
+
+
+
 
 ## Sinfo
 ```
@@ -117,3 +129,23 @@ https://github.com/facebookresearch/llama/issues/415
 
 
 @kechan I switched to the hugging face 13B and was able to run it on a single 4090 at 8bit quantization. It worked fine.
+
+======
+
+## Huggingface version
+srun --partition=compling-interactive --gpus=a5000:1 --mem=16000 --pty /bin/bash
+
+source ~/env/hugh/bin/activate
+
+
+
+
+Start an a5000 as above.
+In the `hugh` environment.
+
+
+
+```
+from transformers import pipeline
+pipe = pipeline("text-generation", model="meta-llama/Llama-2-7b-chat-hf")
+```
