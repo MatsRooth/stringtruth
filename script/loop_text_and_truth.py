@@ -1,9 +1,13 @@
+'''
+Demo a generator function for a benchmark
+This yields 3477 items
+
+python3 script/loop_text_and_truth.py data_clean/pooled_text data_clean/pooled_truth
+'''
+
 import sys
 import warnings
-# Demo a generator function for the benchmark
-# It yields 3477 items
 
-# python3 script/loop_text_and_truth.py data_clean/pooled_text data_clean/pooled_truth
 
 text_file = sys.argv[1]
 truth_file = sys.argv[2]
@@ -25,22 +29,21 @@ truth = {z.strip().split(" ")[0]:z.strip().split(" ")[1:] for z in open(truth_fi
 # Dictionary from uid to dictionary from string to 't', 'f' or 'u'
 truth = {z.strip().split(" ")[0]:dict(zip(*(iter(z.strip().split(" ")[1:]),) * 2)) for z in open(truth_file)}
 
-# Generator function for items in the benchmark, in a tuple format like
-#  ('jack_a_14', 'lool', 'f')
-#  ('ava_a_5', 'aTqF', 't')
+'''
+Generator function for items in the benchmark, in a tuple format like
+('timberland_a_10_yplpsp', 'every letter is a glide except for letter one', 'yplpsp', 'f')
+('ej_a_1_aTqF', 'letter one is final', 'aTqF', 'f')
+('ej_a_1_Attq', 'letter one is final', 'Attq', 't')
+'''
 
 def benchmark():
     for u in uid:
         for s in truth[u].keys():
-            yield (u,text[u],s,truth[u][s])
+            yield (f'{u}_{s}',text[u],s,truth[u][s])
 
 
 for x in benchmark(): print(x)
            
-#for u in uid:
-#    print(f'{u} {text[u]}')
-#    for s in truth[u].keys():
-#        print(f' {text[u]} {s} {truth[u][s]}')
 
 
 
