@@ -9,7 +9,7 @@ The json files are chatbot benchmarks, including responses from two or three sys
 
 * AJ Fraser is the author of physiology_faj.json
 
-* Ryan Prober is the author of physiology_pr.json
+* Ryan Probe is the author of physiology_pr.json
 
 * Jordan Blitz is the author of create_metrics.py
 
