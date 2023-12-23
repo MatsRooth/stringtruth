@@ -1,0 +1,1249 @@
+{
+    "inputs":[
+        {
+            "id":0,
+            "question": "Is the left atrium of the heart larger than the right atrium? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The left atrium of the heart is generally larger than the right atrium because it receives blood from the lungs, which contains a higher volume of blood compared to the deoxygenated blood that enters the right atrium from the body.",
+            "llama2_digest": "Yes",	
+            "bard": "Yes.",
+            "bard_digest": "Yes.",	
+           "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":1,
+            "question": "Do all dogs have the same sized soft palate? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No.",
+            "llama2_digest": "No",	
+            "bard": "No, not all dogs have the same sized soft palate. The size of the soft palate varies depending on the breed of dog. Dogs with brachycephalic (short-nosed) breeds, such as Bulldogs, Pugs, and Shih Tzus, tend to have elongated soft palates. This is because their skulls are shorter than those of other dog breeds, but their soft tissues have not developed at a slower rate. As a result, their soft palates can extend too far back into their throats, which can obstruct their airway and cause breathing problems. Dogs with mesaticephalic (medium-nosed) breeds, such as Labrador Retrievers, German Shepherds, and Beagles, have soft palates that are of a normal length. Dogs with dolichocephalic (long-nosed) breeds, such as Greyhounds, Collies, and Dalmatians, have soft palates that are shorter than those of mesaticephalic dogs. In addition to breed, the size of the soft palate can also vary depending on the individual dog's anatomy. Some dogs may simply have larger or smaller soft palates than others.
+If you are concerned about the size of your dog's soft palate, you should talk to your veterinarian. They can examine your dog's mouth and throat to assess the size and condition of their soft palate. They can also advise you on whether any treatment is necessary.",
+            "bard_digest": "No",	
+           "chatgpt3.5": "No, , not all dogs have the same sized soft palate. The size and shape of a dog's soft palate can vary among different breeds and individual dogs. The soft palate is the fleshy part at the back of the roof of the mouth (the oropharynx), and its size and shape can influence a dog's breathing and overall health.
+In some brachycephalic (short-nosed) dog breeds, such as Bulldogs, Pugs, and Boxers, the soft palate is often relatively elongated and can partially obstruct the airway, leading to breathing difficulties and a condition known as brachycephalic obstructive airway syndrome (BOAS). In these breeds, the soft palate may be longer than in dogs with longer snouts (mesocephalic or dolichocephalic breeds).
+Conversely, in some dolichocephalic (long-nosed) breeds, the soft palate may be relatively shorter and less likely to cause breathing problems.
+The size and conformation of the soft palate can also vary among individual dogs within a breed. Breeding practices and genetics can influence these variations, but it's important to note that soft palate size is just one factor in a dog's overall health, and other anatomical features, such as the shape of the nostrils and the size of the trachea, can also play a role in a dog's respiratory health. Breeding for healthier anatomical traits is important in reducing the risk of breathing issues in certain breeds. If you have concerns about your dog's soft palate or breathing, it's best to consult with a veterinarian for a proper evaluation and guidance",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":2,
+            "question": "If a dog's hypothalamus is removed, does its vomeronasal organ still receive pheromone information? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No.",
+            "llama2_digest": "Yes",	
+           "bard": "Yes, it would still receive information, but if a dog's hypothalamus is removed, it would likely have a profound impact on the dog's overall physiological and behavioral functions. The hypothalamus plays a crucial role in regulating many bodily functions, including the release of hormones and the control of various behaviors, including those related to the perception and response to pheromones.
+The vomeronasal organ (VNO) is responsible for detecting and processing pheromone information. Pheromones are chemical signals that animals, including dogs, use for communication and to convey information about reproductive status, social signals, and more. The VNO sends signals related to pheromones to the hypothalamus, where they are processed and influence various behaviors and physiological responses.
+If the hypothalamus is removed, the dog's ability to process and respond to pheromone information would likely be severely compromised. Without the hypothalamus, the dog would have difficulty regulating many aspects of its physiology and behavior, and it would likely experience significant disruptions in its ability to interpret and respond to pheromonal cues.",
+            "bard_digest": "Yes",	
+           "chatgpt3.5": "No, if a dog's hypothalamus is removed, its vomeronasal organ will no longer receive pheromone information. The vomeronasal organ is an auxiliary olfactory system that detects pheromones, which are chemical signals released by other animals to communicate with each other. The vomeronasal organ sends signals directly to the hypothalamus, which is a part of the brain that controls many important functions, including reproduction, behavior, and emotion.
+If the hypothalamus is removed, the vomeronasal organ will lose its connection to the brain and will no longer be able to send or receive signals. This means that the dog will no longer be able to detect or respond to pheromones.
+Pheromones play a role in many aspects of dog behavior, including mating, social interaction, and territoriality. A dog without a functioning vomeronasal organ will be unable to detect these important signals, which can lead to behavioral problems.
+For example, a dog without a vomeronasal organ may be more likely to be aggressive or fearful towards other dogs. They may also have difficulty finding a mate or defending their territory.
+If you are concerned that your dog may have a problem with their vomeronasal organ, you should talk to your veterinarian. They can examine your dog's nose and throat to look for any signs of damage or abnormality. They can also perform tests to assess the function of the vomeronasal organ.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":3,
+            "question": "Would a cat's stomach lumen and food bolus be affected if the gastric juice is composed of Hydroiodic acid? Provide a yes or no answer",
+            "author": "Yes.",
+            "llama2": "Yes.",
+            "llama2_digest": "Yes.",	
+            "bard": "Yes, Hydroiodic acid (HI) is a strong acid that is not found naturally in the stomach. It is more corrosive than hydrochloric acid (HCl), the acid that is normally found in the stomach. If a cat's stomach juice was composed of HI, it would have a devastating effect on the stomach lumen and food bolus.
+HI would quickly erode the lining of the stomach, causing severe inflammation and bleeding. It would also denature the proteins in the food bolus, making it difficult for the cat to digest. In severe cases, HI could even cause the stomach to rupture.
+In addition to the damage to the stomach, HI would also be absorbed into the bloodstream and cause systemic acidosis. This would lead to a number of other problems, including breathing difficulties, seizures, and coma.
+In short, if a cat's stomach juice was composed of HI, it would be fatal.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "YesYes, Hydroiodic acid (HI) is a strong and highly corrosive acid composed of hydrogen and iodine. It is not a naturally occurring component of a cat's gastric juice or digestive system. A cat's stomach typically contains hydrochloric acid (HCl), which is a normal component of the digestive process. If hydroiodic acid were to be introduced into a cat's stomach, it would have a corrosive and damaging effect on the stomach lining, potentially leading to severe tissue damage, ulcers, and other health issues. The stomach lining is adapted to withstand the effects of the natural gastric juices, including hydrochloric acid, but it is not equipped to handle the corrosiveness of hydroiodic acid.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":4,
+            "question": "Does the human body contain more water than blood?
+Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The human body contains more water than blood. Water makes up approximately 60% of an adult's body weight, while blood accounts for only about 7% of the body's total weight.",
+            "llama2_digest": "Yes",	
+            "bard": "Yes.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":5,
+            "question": "Does the heart have 3 chambers? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No, the heart has four chambers: the left and right atria, and the left and right ventricles.",
+            "llama2_digest": "No",	
+            "bard": "No, the heart does not have 3 chambers. It has 4 chambers.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":6,
+            "question": "Do the lungs produce carbon dioxide? Provide a yes or no answer",
+            "author": "No.",
+            "llama2": "No, the lungs do not produce carbon dioxide. They help to remove carbon dioxide from the blood and exchange it for oxygen through the process of respiration.",
+            "llama2_digest": "No",	
+            "bard": "No, the lungs do not produce carbon dioxide. Carbon dioxide is a waste product of cellular respiration. The lungs are responsible for removing carbon dioxide from the bloodstream and exhaling it out of the body. ",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":7,
+            "question": "Does the stomach secrete enzymes that help break down food? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes, the stomach secretes enzymes such as pepsin and gastric amylase that help break down proteins and carbohydrates in food.",
+            "llama2_digest": "Yes",	
+            "bard": "Yes, the stomach secretes enzymes that help break down food. The main enzyme is pepsin, which breaks down proteins. The stomach also secretes hydrochloric acid, which helps to activate pepsin and also kills bacteria.",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":8,
+            "question": "Does the small intestine absorb most of the water from food? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No, the small intestine does not absorb most of the water from food. The small intestine is responsible for absorbing nutrients, such as sugars, amino acids, and fats, but not water. The large intestine, also known as the colon, is responsible for absorbing water and electrolytes from the remaining indigestible matter.",
+            "llama2_digest": "No",
+            "bard": "No, the large intestine absorbs most of the water from food. The small intestine absorbs about 90% of nutrients and water from food. The large intestine then absorbs about 80% of the remaining water, leaving only about 200 ml of water to be excreted as feces.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":9,
+            "question": "Does the large intestine produce enzymes that help break down food? Provide a yes or no answer",
+            "author": "No.",
+            "llama2": "No, the large intestine does not produce enzymes that help break down food.",
+            "llama2_digest": "No.",	
+            "bard": "No, the large intestine does not produce enzymes that help break down food. The small intestine is the main site of enzyme-mediated digestion.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":10,
+            "question": "Does the heart pump blood throughout the body in a single circuit? Provide a yes or no answer",
+            "author": "No.",
+            "llama2": "No, the heart pumps blood through two circuits: the pulmonary circuit, which carries deoxygenated blood from the heart to the lungs and back, and the systemic circuit, which carries oxygenated blood from the heart to the rest of the body and back.",
+            "llama2_digest": "No.",	
+           "bard": "No, the heart does not pump blood throughout the body in a single circuit. The heart actually pumps blood through two circuits: the pulmonary circuit and the systemic circuit. The pulmonary circuit is a short loop that carries blood from the heart to the lungs and back again. The lungs are where the blood picks up oxygen and releases carbon dioxide. Once the blood is oxygenated, it flows back to the heart. The systemic circuit is a much longer loop that carries blood from the heart to all the other parts of the body and back again. The blood delivers oxygen and nutrients to the cells and tissues of the body, and then picks up waste products, such as carbon dioxide, and carries them back to the heart. So, the heart actually pumps blood through two circuits, not one. The pulmonary circuit carries blood to the lungs and back again, and the systemic circuit carries blood to all the other parts of the body and back again.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":11,
+            "question": "Do the lungs take in oxygen and release carbon dioxide through osmosis? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No, the lungs do not take in oxygen and release carbon dioxide through osmosis. Osmosis is the movement of molecules from an area of higher concentration to an area of lower concentration through a selectively permeable membrane. While the lungs do have a role in exchanging oxygen and carbon dioxide through diffusion, they do not use osmosis to do so. Instead, they use a process called facilitated diffusion, which involves the movement of molecules through a protein channel in the cell membrane.",
+            "llama2_digest": "No",	
+            "bard": "No, the lungs take in oxygen and release carbon dioxide through diffusion, not osmosis. Osmosis is the movement of water molecules across a selectively permeable membrane from an area of high concentration to an area of low concentration. Diffusion is the movement of molecules from an area of high concentration to an area of low concentration, regardless of the type of molecule.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":12,
+            "question": "Does the brain control the body's voluntary and involuntary functions? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The brain controls both the body's voluntary and involuntary functions. Voluntary functions, such as moving your arms and legs, are controlled by the cerebral cortex, while involuntary functions, such as breathing and digestion, are controlled by the autonomic nervous system, which is regulated by the brain.",
+            "llama2_digest": "Yes",	
+            "bard": "Yes, the brain controls the body's voluntary and involuntary functions. Voluntary functions are those that are consciously controlled by the brain, such as moving your arm or leg. Involuntary functions are those that are not consciously controlled by the brain, such as breathing or digestion.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":13,
+            "question": "Does the spinal cord send signals from the brain to the body through axons? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The spinal cord sends signals from the brain to the body through axons. Axons are long, thin extensions of nerve cells (neurons) that carry electrical signals away from the cell body and transmit them to other neurons, muscles, or glands. The spinal cord is made up of a bundle of these axons, which carry signals between the brain and the rest of the body.",
+            "llama2_digest": "Yes.",	
+            "bard": "Yes, the spinal cord sends signals from the brain to the body through axons. The spinal cord is a long, thin bundle of nerves that runs from the brain down to the tailbone. It is responsible for carrying signals between the brain and the rest of the body. The axons of the nerves in the spinal cord carry signals from the brain to the muscles and organs of the body. The signals tell the muscles and organs what to do, such as move, contract, or secrete hormones..",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":14,
+            "question": "Do the muscles contract to move the body, but they cannot relax? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Muscles can both contract and relax. When a muscle contracts, it shortens and becomes tense, producing movement or maintaining posture. When a muscle relaxes, it lengthens and becomes less tense, allowing the muscle to return to its resting state.",
+            "llama2_digest": "No.",	
+            "bard": "No, muscles can both contract and relax. Contraction is the process of shortening a muscle, which is what allows us to move. Relaxation is the process of lengthening a muscle, which is what allows us to rest. Muscles are constantly contracting and relaxing in order to move our bodies in a smooth and coordinated way.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Muscles can both contract and relax to facilitate movement.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":15,
+            "question": "Do the bones grow and repair themselves throughout life? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. Bones are constantly being remodeled and replaced with new bone tissue throughout a person's life. This process, called bone remodeling, helps to repair damage to bones and keep them strong and healthy. It occurs through the actions of specialized cells called osteoclasts, which break down old bone tissue, and osteoblasts, which build new bone tissue.",
+            "llama2_digest": "Yes",	
+            "bard": "Yes, bones grow and repair themselves throughout life. This is because bones are living tissue that is constantly being remodeled. Remodeling is a process in which old bone tissue is broken down and replaced with new bone tissue. This process is necessary to maintain the strength and flexibility of bones. Remodeling is controlled by two types of cells: osteoclasts and osteoblasts. Osteoclasts are cells that break down bone tissue, while osteoblasts are cells that build new bone tissue. Osteoclasts are always at work breaking down bone tissue, but osteoblasts are only active when new bone tissue is needed. This balance between osteoclasts and osteoblasts ensures that bones are constantly being renewed.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Bones can repair themselves to some extent, but they do not continue to grow throughout life. So the answer is both yes and no.",
+            "chatgpt3.5_digest": "Yes and no.",
+            "note":""
+        },
+        {
+            "id":16,
+            "question": "Do joints allow the bones to move freely in all directions? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Joints allow bones to move in specific directions and ranges of motion, but they do not allow for complete freedom of movement in all directions. The type and amount of movement allowed by a joint depends",
+            "llama2_digest": "No",	
+            "bard": "No, not all joints allow the bones to move freely in all directions.
+
+There are six main types of joints, each with its own range of motion:
+
+Ball-and-socket joints: These joints allow for the greatest range of motion, including flexion, extension, abduction, adduction, rotation, and circumduction. Examples of ball-and-socket joints include the shoulder and hip joints. 
+
+Hinge joints: These joints allow for flexion and extension only. Examples of hinge joints include the elbow and knee joints. 
+
+Pivot joints: These joints allow for rotation only. An example of a pivot joint is the joint between the atlas and axis vertebrae in the neck. 
+
+Gliding joints: These joints allow for limited sliding motion. An example of a gliding joint is the joint between the carpal bones in the wrist. 
+
+Saddle joints: These joints allow for back-and-forth and side-to-side motion, but not rotation. An example of a saddle joint is the joint between the thumb and the metacarpal bone in the hand. 
+
+Condyloid joints: These joints allow for back-and-forth and side-to-side motion, as well as some rotation. An example of a condyloid joint is the joint between the wrist bones. 
+
+The range of motion of a joint is also limited by the muscles, tendons, and ligaments that surround it. These structures provide support and stability to the joint, but they also restrict its movement to some extent.
+
+So, the answer to the question "Do joints allow the bones to move freely in all directions?" is no. The range of motion of a joint is determined by its type and the structures that surround it.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No. Joints allow bones to move, but the degree and direction of movement depend on the type of joint. Not all joints permit free movement in all directions.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":17,
+            "question": "Does the skin protect the body from the environment, but it cannot absorb sunlight? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The skin protects the body from the environment and also plays a role in regulating body temperature. However, it can absorb some sunlight, specifically ultraviolet (UV) radiation, which can cause damage to the skin and increase the risk of skin cancer. Melanin, a pigment produced by skin cells, helps to block some UV radiation, but excessive exposure to sunlight can still be harmful.",
+            "llama2_digest": "No.",	
+            "bard": "No, the skin can absorb sunlight. The skin is the largest organ in the body, and it is responsible for protecting the body from the environment. The skin is made up of several layers, including the epidermis, dermis, and hypodermis.
+
+The epidermis is the outermost layer of the skin, and it is made up of keratinocytes, which are cells that produce keratin, a protein that makes the skin waterproof. The epidermis also contains melanin, which is a pigment that gives the skin its color. Melanin also helps to protect the skin from the sun's harmful ultraviolet (UV) rays.
+
+The dermis is the layer of skin below the epidermis. It is made up of connective tissue, blood vessels, nerves, and hair follicles. The dermis provides support for the skin and helps to regulate its temperature.
+
+The hypodermis is the deepest layer of the skin. It is made up of fatty tissue, which helps to insulate the body and store energy.
+
+The skin protects the body from the environment in a number of ways. It protects the body from harmful UV rays, bacteria, viruses, and other toxins. It also helps to regulate the body's temperature and prevents dehydration..",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":18,
+            "question": "Do the kidneys filter waste products from the blood, but they cannot produce urine? Provide a yes or no answer",
+            "author": "No.",
+            "llama2": "No. The kidneys filter waste products and excess fluids from the blood and produce urine as a result. The filtration process occurs in the glomeruli, tiny blood vessels within the kidneys, and the resulting urine then passes through tubules.",
+            "llama2_digest": "No.",	
+            "bard": "No, the kidneys cannot produce urine. The kidneys are responsible for filtering waste products from the blood, but the urine is actually produced by the ureters and bladder.
+
+The ureters are two thin tubes that carry urine from the kidneys to the bladder. The bladder is a muscular sac that stores urine until it is ready to be eliminated from the body.
+
+So, while the kidneys are responsible for filtering waste products from the blood, they are not responsible for producing urine. The urine is actually produced by the ureters and bladder.
+
+Therefore, the answer to the question "Do the kidneys filter waste products from the blood, but they cannot produce urine?" is no. The kidneys cannot produce urine. ",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No. Kidneys do filter waste products from the blood and produce urine.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":19,
+            "question": "Does the pancreas store bile in between meals? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The pancreas does not store bile. Bile is produced by the liver and stored in the gallbladder until it is needed to aid in the digestion of fats during meals. The pancreas produces digestive enzymes and hormones, such as insulin and glucagon, but it does not play a role in storing or secreting bile.",
+            "llama2_digest": "No",	
+            "bard": "No, the pancreas does not store bile in between meals. Bile is produced by the liver and stored in the gallbladder. When you eat, the gallbladder contracts and releases bile into the small intestine to help digest fats. The pancreas produces enzymes that help break down food, but it does not store bile. The pancreas releases enzymes into the small intestine when you eat. These enzymes help break down carbohydrates, proteins, and fats. So, the answer to the question "Does the pancreas store bile in between meals?" is no. The pancreas does not store bile.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No. The pancreas does not store bile; that is the primary function of the gallbladder.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":20,
+            "question": "Is the parasympathetic nervous system responsible for the "fight or flight" response? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The "fight or flight" response is actually mediated by the sympathetic nervous system, which is a part of the autonomic nervous system that prepares the body for physical activity and stress responses. The parasympathetic nervous system, on the other hand, promotes relaxation and calming of the body, and is often referred to as the "rest and digest" system.",
+            "llama2_digest": "No.",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":21,
+            "question": "Can muscle cells undergo mitosis after reaching maturity? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Muscle cells, also known as skeletal muscle fibers, are post-mitotic cells, meaning they have already undergone cell division and differentiation during embryonic development and do not have the ability to undergo further mitosis after reaching maturity. This means that once a muscle fiber reaches maturity, it will not divide again and will remain stable throughout an individual's life.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":22,
+            "question": "Is the enzyme amylase involved in protein digestion? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Amylase is an enzyme that breaks down carbohydrates, specifically starches and glycans, into simpler sugars. It is not involved in protein digestion. Protein digestion is carried out by different enzymes called proteases.",
+            "llama2_digest": "No.",	
+            "bard": "no Amylase is an enzyme that breaks down carbohydrates, not proteins. Protein digestion is primarily done by enzymes called proteases.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":23,
+            "question": "Does the medulla oblongata control voluntary muscle movements? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The medulla oblongata is responsible for controlling involuntary movements, such as breathing, swallowing, and heart rate regulation. Voluntary muscle movements, on the other hand, are controlled by the motor cortex, which is located in the cerebral cortex.",
+            "llama2_digest": "No.",	
+            "bard": "no While the medulla oblongata does control some muscle movement, it primarily controls involuntary movements.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":24,
+            "question": "Does the pancreas produce and release glucagon during times of stress? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The pancreas produces and releases glucagon during times of stress, as well as during periods of low blood sugar levels. Glucagon stimulates the liver to break down stored glycogen and release glucose into the bloodstream, helping to raise blood sugar levels. This response is part of the body's fight-or-flight response to stress.",
+            "llama2_digest": "Yes",	
+            "bard": "yes The pancreas produces and releases glucagon during times of stress. Glucagon is a hormone that helps raise blood sugar levels by stimulating the liver to release glucose. This is an important response to stress, as it provides the body with the energy it needs to cope with the situation.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":25,
+            "question": "Does the hypothalamus directly secrete hormones into the bloodstream? Provide a yes or answer",
+            "author": "No",
+            "llama2": "No. The hypothalamus does not directly secrete hormones into the bloodstream. Instead, it produces hormones that are released into the hypophyseal portal system, which carries them to the pituitary gland. The pituitary gland then secretes these hormones into the bloodstream, where they can affect target cells throughout the body.",
+            "llama2_digest": "No",	
+            "bard": "no The hypothalamus secretes hormones, but they do not directly enter the bloodstream. Instead, they travel through a structure called the pituitary stalk to the anterior pituitary gland, where they are stored and released into the bloodstream. The anterior pituitary is considered a separate gland from the hypothalamus, although they are closely connected and work together to regulate various bodily functions. ",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":26,
+            "question": "Can the human body synthesize essential amino acids? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The human body cannot synthesize all nine essential amino acids, which are histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, and valine. These amino acids must be obtained through the diet or supplements. The body can synthesize non-essential amino acids, which are those that can be produced by the body from other amino acids.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":27,
+            "question": "Is the hormone oxytocin exclusively involved in childbirth? Provide a yes or no answer",
+            "author": "No",
+            "llama2": No. While oxytocin is often associated with childbirth and lactation, it has a broader range of functions in the body. Oxytocin is also involved in social bonding and attachment, and it plays a role in a variety of physiological and psychological processes, including sexual arousal, orgasm, and anxiety reduction. It is also involved in the regulation of gut motility and has been studied for its potential therapeutic uses in conditions such as autism and depression.",
+            "llama2_digest": "No.",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":28,
+            "question": "Does the pineal gland regulate body temperature? Provide a yes or answer",
+            "author": "Yes",
+            "llama2": "No. The pineal gland is a small endocrine gland located in the brain that produces melatonin, a hormone that regulates sleep-wake cycles. It does not play a direct role in regulating body temperature. Body temperature is primarily regulated by the hypothalamus, a structure in the brain that controls thermoregulation and helps maintain homeostasis in the body.",
+            "llama2_digest": "No",
+            "bard": "yes The pineal gland regulates body temperature indirectly through the production of the hormone melatonin. Melatonin helps regulate the body's circadian rhythm, which in turn influences core body temperature. While the exact mechanisms are still being researched, evidence suggests that melatonin plays a role in both circadian and homeostatic thermoregulation.",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":29,
+            "question": "Can the spleen store excess glucose for later use? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The spleen is an organ that filters the blood and stores red blood cells, platelets, and white blood cells. It does not have the ability to store glucose or any other nutrients for later use. The primary site of glucose storage in the body is the liver, which can store glucose in the form of glycogen for later use when blood sugar levels drop.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":30,
+            "question": "Is cortisol production solely regulated by the adrenal medulla? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Cortisol production is not solely regulated by the adrenal medulla. While the adrenal medulla is the primary source of cortisol production, cortisol secretion is also regulated by the hypothalamus-pituitary-adrenal (HPA) axis. The HPA axis is a complex feedback loop that involves the hypothalamus, pituitary gland, and adrenal glands. The hypothalamus produces corticotropin-releasing factor (CRF), which stimulates the pituitary gland to release adrenocorticotropic hormone (ACTH). ACTH, in turn, stimulates the adrenal cortex to produce cortisol. The HPA axis is activated in response to stress, and cortisol production is increased to help the body respond to the stressor. Therefore, while the adrenal medulla plays a critical role in cortisol production, it is not the only factor that regulates cortisol secretion.",
+            "llama2_digest": "No.",	
+            "bard": no The adrenal medulla does not produce cortisol. Cortisol is produced by the adrenal cortex, which is a different layer of the adrenal gland. The production of cortisol is regulated by the hypothalamic-pituitary-adrenal (HPA) axis, which involves the hypothalamus, pituitary gland, and adrenal glands.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":31,
+            "question": "Is acetylcholine the primary neurotransmitter at neuromuscular junctions? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. Acetylcholine (ACh) is the primary neurotransmitter released by motor neurons at neuromuscular junctions (NMJs) in vertebrates. It binds to nicotinic acetylcholine receptors (nAChRs) on the postsynaptic side, leading to depolarization of the muscle fiber membrane and subsequent contraction. Other neurotransmitters may also be present at NMJs, but ACh is the dominant one and plays a crucial role in transmitting signals from motor neurons to muscles.",
+            "llama2_digest": "Yes.",	
+            "bard": "yes Acetylcholine (ACh) is the primary neurotransmitter at neuromuscular junctions. It is responsible for the transmission of signals from motor neurons to muscle cells, ultimately leading to muscle contraction. When an action potential arrives at the presynaptic terminal of a motor neuron, ACh is released into the synaptic cleft. ACh then binds to receptors on the postsynaptic membrane of the muscle cell, causing the opening of ion channels and the generation of an action potential in the muscle cell. This action potential triggers the release of calcium ions from the sarcoplasmic reticulum, which bind to troponin and initiate the process of muscle contraction.",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":32,
+            "question": "Can smooth muscle be found in the heart? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "Yes. Smooth muscle can be found in the heart, particularly in the walls of the cardiac ventricles and atria. It plays a crucial role in regulating heart rate and contractility, and helps to maintain blood flow through the circulatory system.",
+            "llama2_digest": "Yes.",	
+            "bard": "no The heart contains cardiac muscle, not smooth muscle. Smooth muscle is found in the walls of blood vessels and other hollow organs, while cardiac muscle is specifically responsible for the contraction of the heart.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":33,
+            "question": "Does the sympathetic nervous system stimulate digestion? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The sympathetic nervous system does not stimulate digestion. In fact, it can actually slow down digestion by decreasing blood flow to the digestive system and inhibiting the release of digestive enzymes. The parasympathetic nervous system, on the other hand, is responsible for stimulating digestion and promoting relaxation of the digestive tract.",
+            "llama2_digest": "No.",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":34,
+            "question": "Can the human body produce vitamin C internally? Provide a yes or no answer",
+            "author": "No.",
+            "llama2": "No. The human body cannot produce vitamin C internally. Vitamin C is an essential nutrient that must be obtained through the diet or supplements. The lack of the enzyme L-gulonolactone oxidase, which is necessary for vitamin C biosynthesis, makes it impossible for humans to produce vitamin C internally.",
+            "llama2_digest": "No.",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":35,
+            "question": "Is the epidermis the thickest layer of the skin? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The epidermis is the outermost layer of the skin, but it is not the thickest layer. The dermis, which lies beneath the epidermis, is thicker than the epidermis. The dermis contains collagen and elastin fibers, which provide strength and flexibility to the skin, and it also houses sweat glands, hair follicles, and blood vessels. The hypodermis, also known as subcutaneous tissue, is the deepest layer of the skin and is composed of fat cells, connective tissue, and blood vessels.",
+            "llama2_digest": "No.",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":36,
+            "question": "Does the vestibular system play a role in the sense of taste? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The vestibular system, which is responsible for balance and equilibrium, does not play a role in the sense of taste. Taste is primarily mediated by the tongue and the olfactory system, which detects chemical molecules in food and drinks and sends signals to the brain to interpret flavors. The vestibular system is not involved in this process.",
+            "llama2_digest": "No.",	
+            "bard": "no The vestibular system is responsible for balance and spatial orientation, while the sense of taste is detected by taste buds on the tongue. These are two different senses with separate neural pathways and functions.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":37,
+            "question": "Can bone marrow produce both red and white blood cells? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. Bone marrow has the ability to produce both red blood cells (erythrocytes) and white blood cells (leukocytes). Red blood cells are responsible for carrying oxygen throughout the body, while white blood cells are a part of the immune system and help to fight off infections. Bone marrow is the spongy tissue inside some of your bones, such as your hips and thighbones, and it is here that stem cells differentiate into various types of blood cells, including red and white blood cells.",
+            "llama2_digest": "Yes",	
+            "bard": "Yes Bone marrow is the spongy tissue found inside the bones. It produces both red blood cells, which transport oxygen throughout the body, and white blood cells, which fight infection. The process of producing blood cells is called hematopoiesis.",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":38,
+            "question": "Is the release of insulin inhibited by high blood glucose levels? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "Yes. High blood glucose levels can inhibit the release of insulin from the pancreatic beta cells. This is known as glucose-induced insulin resistance. When blood glucose levels are elevated, the pancreas may reduce the amount of insulin released in order to prevent excessive glucose uptake by the cells, which can lead to hyperglycemia. Additionally, high blood glucose levels can also decrease the sensitivity of insulin receptors on the surface of cells, making it more difficult for insulin to bind and trigger glucose uptake.",
+            "llama2_digest": "Yes",	
+            "bard": "no High blood glucose levels actually stimulate the release of insulin from the pancreas. Insulin is a hormone that helps the body use glucose for energy or store it for later.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":39,
+            "question": "Does the thyroid gland regulate calcium levels in the blood? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. The thyroid gland does not regulate calcium levels in the blood. Calcium homeostasis is primarily regulated by the parathyroid glands, which are located in the neck near the thyroid gland. The parathyroid glands produce parathyroid hormone (PTH), which helps to regulate calcium levels in the blood by promoting the release of calcium from bones and increasing the absorption of calcium in the gut. The thyroid gland, on the other hand, produces thyroid hormones that regulate metabolism and growth, but it does not have a direct role in regulating calcium levels.",
+            "llama2_digest": "No.",	
+            "bard": "partially yes The thyroid gland does play a role in regulating calcium levels in the blood, but it is not the primary regulator. It contributes by producing calcitonin, a hormone that lowers blood calcium levels. However, the major control of calcium levels in the blood comes from the parathyroid glands, which produce parathyroid hormone (PTH). PTH increases blood calcium levels. Therefore, the thyroid and parathyroid glands work together to maintain calcium homeostasis in the body.",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":40,
+            "question": "Does the stomach absorb nutrients directly into the bloodstream? Provide a yes or no answer",
+            "author": "No",
+            "llama2": No. The stomach does not absorb nutrients directly into the bloodstream. The stomach's main function is to mechanically break down food into smaller particles and mix it with digestive enzymes and acids to begin the process of digestion. The partially digested food then passes into the small intestine, where most of the nutrient absorption takes place. The walls of the small intestine are lined with finger-like projections called villi, which increase the surface area for absorption and allow nutrients to be absorbed into the bloodstream.",
+            "llama2_digest": "No.",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":41,
+            "question": "Is the hormone aldosterone involved in water conservation by the kidneys? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": Yes. Aldosterone is a hormone produced by the adrenal glands that plays a key role in regulating electrolyte balance and water conservation in the body. It helps the kidneys conserve water by increasing the reabsorption of sodium ions and water back into the bloodstream, which reduces the amount of urine produced. This helps maintain proper fluid balance in the body and prevents dehydration.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":42,
+            "question": "Can cardiac muscle generate action potentials without neural stimulation? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. Cardiac muscle requires neural stimulation to generate action potentials. The cardiac pacemaker, located in the sinoatrial node, is responsible for generating electrical impulses that stimulate the contraction of the heart. Without neural stimulation, the cardiac muscle would not be able to generate action potentials and therefore would not be able to contract.",
+            "llama2_digest": "No.",	
+            "bard": "yes Cardiac muscle has specialized cells called pacemaker cells that can generate spontaneous action potentials without neural stimulation. These pacemaker cells are located in the sinoatrial node (SA node), which is responsible for setting the heart's rhythm.",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":43,
+            "question": "Is the enzyme catalase involved in breaking down carbohydrates? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Catalase is an enzyme that breaks down hydrogen peroxide, a byproduct of oxidative metabolism, into water and oxygen. It is not involved in breaking down carbohydrates. Carbohydrate metabolism involves a series of enzyme-catalyzed reactions that break down carbohydrates into simpler sugars, which can then be used for energy production or stored for later use. Enzymes such as glycosidases, glycosaminoglycan lyases, and glycerol kinase are involved in carbohydrate metabolism, but catalase is not one of them.",
+            "llama2_digest": "No",	
+            "bard": "no Catalase is involved in breaking down hydrogen peroxide into water and oxygen, not carbohydrates. Carbohydrates are broken down by different enzymes, such as amylase, protease, and lipase.",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":44,
+            "question": "Does the release of melatonin follow a circadian rhythm? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The release of melatonin follows a circadian rhythm, meaning that it oscillates over a 24-hour period in synchrony with the body's internal clock. Melatonin levels typically rise in the evening and fall in the morning, peaking around 9 pm and bottoming out around 7 am. This natural fluctuation in melatonin levels helps regulate the sleep-wake cycle and promote sleepiness at night.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":45,
+            "question": "Can the liver convert fatty acids into glucose through gluconeogenesis? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "Yes. The liver can convert fatty acids into glucose through gluconeogenesis, which is a metabolic pathway that generates glucose from non-carbohydrate sources such as amino acids, lactate, and fatty acids. When the body's glucose levels are low, the liver can use gluconeogenesis to produce glucose from fatty acids, which can then be released into the bloodstream for use by other tissues. This process helps maintain blood sugar homeostasis and provides an alternative source of energy for the body when glucose from dietary carbohydrates is not available.",
+            "llama2_digest": "Yes",	
+            "bard": "no The liver cannot convert fatty acids directly into glucose through gluconeogenesis. While the liver can convert other molecules like amino acids and glycerol (a component of triglycerides) into glucose, fatty acids themselves are broken down through beta-oxidation into acetyl-CoA, which then enters the citric acid cycle to produce energy.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":46,
+            "question": "Is the ciliary muscle responsible for controlling the size of the pupil? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "Yes. The ciliary muscle is responsible for controlling the size of the pupil. The ciliary muscle is a ring-shaped muscle that surrounds the lens in the eye and is attached to the iris. When the ciliary muscle contracts, it causes the iris to constrict, which reduces the size of the pupil. Conversely, when the ciliary muscle relaxes, the iris dilates, allowing more light to enter the eye and increasing the size of the pupil. The autonomic nervous system controls the ciliary muscle, and changes in light intensity, emotional state, and certain drugs can all affect pupillary size.",
+            "llama2_digest": "Yes",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No. The ciliary muscle is responsible for changing the shape of the lens in the eye to facilitate focusing on objects at different distances. The size of the pupil is primarily controlled by the iris muscles.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":47,
+            "question": "Does the cornea have blood vessels? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The cornea, the clear dome-shaped surface at the front of the eye, does not have blood vessels. It is made up of epithelial cells and is nourished by the tear film and the aqueous humor, a clear fluid that fills the space between the cornea and the lens. The lack of blood vessels in the cornea allows it to remain transparent and free of opacities, ensuring good vision.",
+            "llama2_digest": "No.",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":48,
+            "question": "Can the human body convert excess amino acids into fatty acids? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. The human body cannot directly convert excess amino acids into fatty acids. Amino acids are the building blocks of proteins, and they are not converted into fatty acids in the body. Instead, the body uses amino acids to synthesize proteins, which are then used for various physiological processes, such as muscle growth and repair, immune function, and hormone production. Excess amino acids can be converted into glucose or ketones through a process called gluconeogenesis or ketogenesis, respectively, but they cannot be directly converted into fatty acids.",
+            "llama2_digest": "No",
+            "bard": "yes",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":49,
+            "question": "Is the thymus gland more active in adulthood than in childhood? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The thymus gland is more active during childhood and adolescence than in adulthood. During puberty, the thymus gland undergoes significant changes and begins to shrink, resulting in reduced activity. By early adulthood, the thymus gland has largely completed its development and becomes less active. While it still plays a role in immune function throughout life, its activity declines with age.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":50,
+            "question": "Does the hormone vasopressin regulate blood pressure? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. Vasopressin, also known as antidiuretic hormone (ADH), plays a key role in regulating blood pressure by promoting water reabsorption in the kidneys and increasing peripheral vascular resistance. When blood pressure drops, the hypothalamus releases vasopressin, which stimulates the kidneys to retain more water and increase urine production. This increases blood volume and helps restore blood pressure to normal levels. In addition, vasopressin also causes blood vessels to constrict, further contributing to the increase in blood pressure. Dysregulation of vasopressin levels or activity has been linked to various hypertensive disorders, such as essential hypertension and renovascular hypertension.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":51,
+            "question": "Can the brain utilize ketone bodies as an energy source? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The brain can utilize ketone bodies as an energy source. Ketone bodies are produced by the liver when the body is in a state of ketosis, which occurs when the body's carbohydrate stores are depleted and it begins to break down fat for energy. The brain can use ketone bodies as an alternative energy source to glucose, which is the primary source of energy for the brain under normal conditions. In fact, the brain is capable of using both glucose and ketone bodies simultaneously, and can switch between the two depending on the availability of each. This ability to use ketone bodies as an energy source is thought to have evolved as a survival mechanism to allow the brain to continue functioning during periods of low glucose availability, such as during fasting or starvation.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":52,
+            "question": "Is the foramen magnum a bone in the human skull? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The foramen magnum is not a bone in the human skull. It is a hole or opening in the occipital bone, which is one of the eight bones that make up the skull. The foramen magnum is the largest opening in the base of the skull and serves as the exit point for the spinal cord, which connects the brain to the rest of the body.",
+            "llama2_digest": "No",	
+            "bard": "no The foramen magnum is a large, oval-shaped opening in the occipital bone at the base of the skull. It allows the spinal cord to pass through and connect to the brain.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. The foramen magnum is not a bone; it is a large opening at the base of the skull through which the spinal cord passes.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":53,
+            "question": "Can the pancreas secrete both endocrine and exocrine substances? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The pancreas can secrete both endocrine and exocrine substances.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":54,
+            "question": "Is the hormone leptin produced by adipose tissue? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. Leptin is produced by adipose tissue, specifically by the obese (ob) gene in adipocytes, which are the main cells composing white adipose tissue. Leptin plays a crucial role in regulating energy balance and metabolism by signaling to the brain the amount of fat stored in the body, thereby influencing appetite and satiety.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":55,
+            "question": "Can the skin absorb oxygen directly from the air? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. The skin cannot absorb oxygen directly from the air. Oxygen enters the body through the respiratory system, specifically through the lungs, where it is absorbed into the bloodstream and then transported to the body's cells. The skin does not have the ability to absorb oxygen from the air, and it relies on the circulatory system to deliver oxygen to its cells.",
+            "llama2_digest": "No",	
+            "bard": "no While the skin does absorb some oxygen directly from the air, the amount is negligible and not sufficient to meet the body's oxygen needs. The primary source of oxygen for the body is the lungs, which take in oxygen from the air and transfer it to the blood via diffusion.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":56,
+            "question": "Does the renal cortex filter blood to form urine? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The renal cortex, which is the outer layer of the kidney, filters blood to form urine. The renal cortex contains a large number of nephrons, which are tiny tubules that filter waste products and excess fluids from the blood and concentrate them into urine. The filtrate from the nephrons then flows through the collecting ducts and is eventually eliminated from the body as urine.",
+            "llama2_digest": "Yes",	
+            "bard": "yes.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No.",
+            "note":""
+        },
+        {
+            "id":57,
+            "question": "Is the enzyme lipase responsible for breaking down nucleic acids? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Lipase is an enzyme that breaks down fats and lipids, not nucleic acids. Nucleic acids, such as DNA and RNA, are broken down by different enzymes called nucleases.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":58,
+            "question": "Can the human body produce vitamin D without exposure to sunlight? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The human body cannot produce vitamin D without exposure to sunlight. Vitamin D is produced in the skin when it is exposed to ultraviolet B (UVB) rays from the sun. This process is necessary for the body to produce adequate amounts of vitamin D. While some foods contain vitamin D, such as fatty fish, egg yolks, and fortified dairy products, the amount provided by these sources is generally not enough to meet daily needs, especially during winter months when sunlight is scarce. Therefore, sunlight exposure is necessary for the body to produce sufficient vitamin D.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No.",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":59,
+            "question": "Is the trachea made up of cartilage rings? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The trachea, also known as the windpipe, is made up of cartilage rings. These rings provide support and structure to the trachea, allowing it to maintain its shape and function properly. The cartilage rings are connected by flexible tissue, allowing the trachea to expand and contract as needed.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":60,
+            "question": "Does the liver produce bile salts for fat digestion? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The liver produces bile salts, which are essential for the digestion and absorption of fats in the small intestine. Bile salts are produced in the liver and stored in the gallbladder until they are released into the small intestine to aid in fat digestion. They help to emulsify fats, breaking them down into smaller particles that can be more easily digested by enzymes.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":61,
+            "question": "Can the auditory ossicles amplify sound waves in the ear? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "Yes. The auditory ossicles, which include the malleus, incus, and stapes bones, play a critical role in amplifying sound waves in the ear. These bones are connected to the eardrum and transmit sound vibrations to the cochlea, where they are converted into electrical signals that can be interpreted by the brain. The movement of the ossicles amplifies the sound vibrations, allowing us to hear sounds more clearly.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes.",
+            "note":""
+        },
+        {
+            "id":62,
+            "question": "Is the hormone progesterone produced by the ovaries in males? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Progesterone is produced by the ovaries in females, not in males. Males do not have ovaries and therefore do not produce progesterone. Progesterone is a female sex hormone that plays a crucial role in the menstrual cycle, pregnancy, and embryogenesis. It is produced by the corpus luteum in the ovary after ovulation and helps to prepare the uterus for implantation of a fertilized egg. In contrast, males produce testosterone, which is a male sex hormone that plays a role in the development of male characteristics and fertility.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":63,
+            "question": "Does the iris control the amount of light entering the eye? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The iris is a muscular diaphragm that controls the amount of light entering the eye by adjusting the size of the pupil. When the iris contracts, it narrows the pupil and allows less light to enter the eye. When it relaxes, it widens the pupil and allows more light to enter. This helps regulate the amount of light that reaches the retina and prevents the eye from becoming overwhelmed by too much light.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":64,
+            "question": "Can skeletal muscle contract without the involvement of calcium ions? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Skeletal muscle contraction requires the involvement of calcium ions (Ca2+). Calcium ions play a crucial role in the excitation-contraction coupling process, which is the process by which an action potential leads to muscle contraction. When an action potential reaches the muscle fiber, it triggers the release of calcium ions from the sarcoplasmic reticulum, which then bind to troponin molecules on the actin filaments. This binding causes a conformational change in the actin filaments, leading to their interaction with myosin heads and subsequent muscle contraction. Therefore, calcium ions are essential for skeletal muscle contraction.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":65,
+            "question": "Is the enzyme pepsin active in the small intestine? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Pepsin is an enzyme produced in the stomach that helps break down proteins into smaller peptides and amino acids. It is not active in the small intestine, as the pH level in the small intestine is too high for pepsin to function effectively. Instead, other enzymes such as trypsin and chymotrypsin take over the digestion of proteins in the small intestine.",
+            "llama2_digest": "No",	
+            "bard": "no Pepsin is a digestive enzyme that is active in the stomach but not in the small intestine.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Pepsin is primarily active in the stomach.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":66,
+            "question": "Can the human body synthesize vitamin K? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The human body cannot synthesize vitamin K. Vitamin K is an essential fat-soluble vitamin that must be obtained through dietary sources, such as leafy green vegetables, fermented foods, and animal-derived foods, or through supplementation. The body cannot produce vitamin K on its own and relies on external sources for its supply.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":67,
+            "question": "Is the enzyme renin involved in the breakdown of proteins? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Renin is an enzyme involved in the regulation of blood pressure, specifically in the renin-angiotensin-aldosterone system (RAAS). It is not involved in the breakdown of proteins. Protein breakdown is mediated by various proteases, such as pepsin and trypsin, which are activated in different parts of the digestive tract. Renin, on the other hand, is produced in the kidneys and plays a role in the regulation of blood pressure by controlling the production of angiotensin II, a potent vasoconstrictor.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Renin is not involved in the breakdown of proteins; it plays a role in the renin-angiotensin-aldosterone system, primarily in the regulation of blood pressure and fluid balance.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":68,
+            "question": "Can the gallbladder absorb nutrients from digested food? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The gallbladder is not able to absorb nutrients from digested food. It is a storage organ that concentrates and releases bile, which is produced by the liver, into the small intestine to aid in the digestion and absorption of fats and fat-soluble vitamins. The gallbladder does not have the ability to absorb nutrients itself.",
+            "llama2_digest": "No",
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. The gallbladder does not absorb nutrients. It stores and concentrates bile produced by the liver, releasing it into the small intestine to aid in the digestion and absorption of fats.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":69,
+            "question": "Is the hormone ghrelin primarily involved in appetite suppression? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Ghrelin is primarily involved in appetite stimulation, not suppression. It is often referred to as the "hunger hormone" because it is released when the stomach is empty and stimulates hunger and feeding behavior. Ghrelin levels are typically highest before meals and lowest after meals, indicating its role in promoting food intake. However, ghrelin has also been shown to have other physiological effects, such as regulating body weight, metabolism, and stress response.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Ghrelin is primarily involved in stimulating appetite, not suppressing it.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":70,
+            "question": "Does the pancreas release digestive enzymes directly into the bloodstream? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The pancreas releases digestive enzymes into the small intestine, not directly into the bloodstream. The pancreatic duct delivers the enzymes from the pancreas to the small intestine, where they help break down food into nutrients that can be absorbed into the bloodstream.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. The pancreas releases digestive enzymes into the small intestine, not directly into the bloodstream.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":71,
+            "question": "Can the cornea repair itself after injury? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The cornea, the clear dome-shaped surface at the front of the eye, has the ability to repair itself after injury. The cornea is made up of epithelial cells, which can regenerate and replace damaged cells. Additionally, the cornea contains stem cells that can differentiate into epithelial cells to help repair damage. This self-healing property of the cornea helps to maintain its transparency and prevent vision loss.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes. The cornea has the ability to repair itself after certain types of injuries..",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":72,
+            "question": "Is the cochlea responsible for maintaining balance? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The cochlea is not responsible for maintaining balance. It is a part of the inner ear that converts sound waves into electrical signals that are transmitted to the brain, where they are interpreted as sound. The vestibular system, which includes the vestibular organs in the inner ear, is responsible for maintaining balance and equilibrium. The vestibular organs detect changes in head position and movement and send signals to the brain to help regulate balance and posture.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. The cochlea is primarily involved in hearing, not maintaining balance. The organ responsible for balance is the vestibular system in the inner ear.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":73,
+            "question": "Does the hormone erythropoietin stimulate the production of red blood cells? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. Erythropoietin (EPO) is a hormone produced by the kidneys that stimulates the production of red blood cells (RBCs) in the bone marrow. It works by binding to specific receptors on the surface of red blood cell precursors in the bone marrow, which triggers the production of more RBCs. This helps to increase the number of RBCs in the bloodstream, which can improve oxygen delivery to tissues throughout the body.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":74,
+            "question": Can the thyroid gland store iodine for extended periods? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The thyroid gland can store iodine for extended periods. Iodine is an essential component of thyroid hormones, and the thyroid gland has a mechanism to retain iodine in the form of iodinated thyroglobulin. Thyroglobulin is a protein produced by the thyroid gland that stores iodine and thyroid hormones. When iodine levels in the blood are low, the thyroid gland can release stored iodine from thyroglobulin to maintain thyroid hormone production. This allows the thyroid gland to maintain a steady supply of thyroid hormones even when iodine intake is limited.",
+            "llama2_digest": "Yes",	
+            "bard": "yes The thyroid gland can store iodine for extended periods. In fact, the thyroid gland is the primary storage site for iodine in the body. It stores enough iodine to last for months, ensuring a continuous supply of this essential element for the production of thyroid hormones.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":75,
+            "question": "Is the pericardium a layer of the heart muscle? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The pericardium is a thin membranous sac that surrounds the heart, but it is not a layer of the heart muscle. It is a separate structure that provides protection and support to the heart.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. The pericardium is not a layer of the heart muscle; it is a sac-like structure that surrounds the heart and consists of outer fibrous and inner serous layers.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":76,
+            "question": "Can the parathyroid glands regulate blood sugar levels? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The parathyroid glands are responsible for regulating calcium levels in the blood, not blood sugar levels. They do not have a direct role in regulating blood glucose levels.",
+            "llama2_digest": "No",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "No. The parathyroid glands are primarily involved in the regulation of calcium levels in the blood, not blood sugar levels.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":77,
+            "question": "Is the enzyme trypsin involved in breaking down fats? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Trypsin is a proteolytic enzyme that breaks down proteins into smaller peptides and amino acids, but it is not involved in breaking down fats. Fats are broken down by lipases, which are enzymes that hydrolyze triglycerides into fatty acids and glycerol.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Trypsin is an enzyme that primarily breaks down proteins in the digestive system.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":78,
+            "question": "Does the diaphragm play a role in both inhalation and exhalation? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The diaphragm is a dome-shaped muscle that separates the chest cavity from the abdominal cavity. It plays a crucial role in both inhalation and exhalation. During inhalation, the diaphragm contracts and flattens, increasing the volume of the chest cavity and drawing air into the lungs. During exhalation, the diaphragm relaxes and rises, decreasing the volume of the chest cavity and pushing air out of the lungs.",
+            "llama2_digest": "Yes",	
+            "bard": "Yes, the diaphragm plays a role in both inhalation and exhalation.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":79,
+            "question": "Can the body convert excess glucose into glycogen for storage? Provide a yes or no answer": "Yes",
+            "llama2": "Yes. The body can convert excess glucose into glycogen for storage. Glycogen is a complex carbohydrate that is formed from the bonding of many glucose molecules. It is stored in the liver and muscles and can be broken down and converted back into glucose when the body needs energy. The process of converting glucose into glycogen is called glycogenesis.",
+            "llama2_digest": "Yes",	
+            "bard": "Yes, the body can convert excess glucose into glycogen for storage. This process is called glycogenesis and takes place primarily in the liver and muscles.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":80,
+            "question": "Is the enzyme lactase involved in the digestion of proteins? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Lactase is an enzyme that breaks down lactose, a type of sugar found in milk, into glucose and galactose. It is not involved in the digestion of proteins. Proteins are broken down by different enzymes, such as pepsin and trypsin, in the stomach and small intestine.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Lactase is an enzyme involved in the digestion of lactose, a sugar found in milk, not proteins.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":81,
+            "question": "Does the cerebellum control voluntary muscle movements? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. The cerebellum does not control voluntary muscle movements. Voluntary muscle movements are controlled by the motor cortex, which is located in the frontal lobe of the brain. The cerebellum is involved in the coordination and regulation of movement, but it does not initiate or control voluntary movements.",
+            "llama2_digest": "No",	
+            "bard": "Yes, the cerebellum plays a crucial role in controlling voluntary muscle movements. It helps to coordinate and fine-tune the execution of movements, ensuring smooth, accurate, and balanced movements.",
+            "bard_digest": "Yes.",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":82,
+            "question": "Is the hormone insulin involved in the breakdown of glycogen? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Insulin is not involved in the breakdown of glycogen. Insulin is a hormone that regulates blood sugar levels by facilitating the uptake of glucose by cells for energy production, and by inhibiting the breakdown of glycogen. Glycogen breakdown is triggered by the hormone glucagon, which is produced by the pancreas and stimulates the liver to release stored glycogen into the bloodstream.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "no",	
+            "chatgpt3.5": "No. Insulin is involved in the storage of glucose as glycogen, not its breakdown.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":83,
+            "question": "Does the adrenal cortex produce adrenaline? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "Yes. The adrenal cortex produces adrenaline, also known as epinephrine. Adrenaline is a hormone that plays a key role in the body's "fight or flight" response to stress, and it is produced by the adrenal glands. The adrenal cortex, which is the outer layer of the adrenal gland, is responsible for producing adrenaline in response to stress signals received from the hypothalamus and pituitary gland.",
+            "llama2_digest": "Yes",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Adrenaline, also known as epinephrine, is produced by the adrenal medulla, not the adrenal cortex.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":84,
+            "question": Can the stomach absorb water directly into the bloodstream? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The stomach cannot absorb water directly into the bloodstream. Water is absorbed into the bloodstream through the walls of the small intestine, which is the next part of the digestive tract after the stomach. The stomach's main function is to break down food into smaller particles and mix it with digestive enzymes and acids, but it is not capable of absorbing water or other nutrients directly into the bloodstream.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. The stomach is not a significant site for water absorption. The majority of water absorption occurs in the small intestine.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":85,
+            "question": "Is the optic nerve responsible for taste sensation? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The optic nerve is not responsible for taste sensation. Taste sensations are detected by taste buds on the tongue and palate, which send signals to the brain via the facial nerve (cranial nerve VII) and the glossopharyngeal nerve (cranial nerve IX). The optic nerve (cranial nerve II) is responsible for transmitting visual information from the eye to the brain.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. The optic nerve is primarily responsible for vision, not taste sensation. Taste is primarily mediated by the taste buds on the tongue and transmitted through the facial, glossopharyngeal, and vagus nerves.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":86,
+            "question": "Can the skin absorb nutrients from the bloodstream? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. The skin cannot absorb nutrients directly from the bloodstream. Nutrients are absorbed into the bloodstream through the digestive system, and then transported to the skin via the circulatory system. The skin does contain microvasculature, which allows for the exchange of substances between the blood and the skin, but this is not sufficient for the skin to absorb nutrients directly from the bloodstream.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "Yes, the skin can absorb certain nutrients from the bloodstream, but the efficiency of nutrient absorption through the skin is limited compared to other routes such as the digestive system.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":87,
+            "question": "Is the hormone prolactin primarily involved in male reproductive function? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Prolactin is primarily involved in female reproductive function, particularly in the production of breast milk during pregnancy and lactation. While men do produce some prolactin, their levels are generally much lower than those found in women, and the hormone does not play a significant role in male reproductive function.",
+            "llama2_digest": "No",	
+            "bard": "No. Prolactin is primarily involved in female reproductive function, specifically milk production.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Prolactin is primarily associated with female reproductive function, particularly in the stimulation of milk production in mammary glands after childbirth. While males also produce prolactin, its role in male reproductive function is not as prominent as in females.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":88,
+            "question": "Does the bladder store digestive enzymes? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. The bladder does not store digestive enzymes. Digestive enzymes are produced in the pancreas and small intestine, and they are secreted into the small intestine to help break down food into nutrients. The bladder's primary function is to store urine until it is eliminated from the body.",
+            "llama2_digest": "No",
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. The bladder is not involved in the storage of digestive enzymes. It is a muscular organ that stores urine until it is ready to be excreted from the body. Digestive enzymes are produced and released by various glands in the digestive system, such as the salivary glands, stomach, and pancreas.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":89,
+            "question": "Can the kidneys regulate blood pH by excreting hydrogen ions? Provide a yes no answer",
+            "author": "Yes",
+            "llama2": "Yes. The kidneys can regulate blood pH by excreting hydrogen ions. The kidneys are able to adjust the pH of the blood by controlling the amount of hydrogen ions that are excreted in the urine. This helps to maintain a stable pH range in the body.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":90,
+            "question": "Does the esophagus produce mucus for lubrication during digestion? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. The esophagus does not produce mucus for lubrication during digestion. Mucus production is a function of the respiratory system, not the digestive system. The esophagus is a muscular tube that propels food from the throat to the stomach, and it does not produce any mucus. Lubrication during digestion is provided by saliva and gastric juices produced by the stomach.",
+            "llama2_digest": "No",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "No. The esophagus does not produce mucus for lubrication during digestion. Mucus for lubrication is produced by goblet cells in the lining of the esophagus and other parts of the digestive tract.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":91,
+            "question": "Can the retina convert light into electrical signals without the involvement of photoreceptor cells? Provide a yes or no answer",
+            "author": "No",
+            "llama2": No. The retina cannot convert light into electrical signals without the involvement of photoreceptor cells. Photoreceptor cells, such as rods and cones, are specialized neurons that contain light-sensitive pigments and are responsible for converting light into electrical signals. These signals are then transmitted to the brain via the optic nerve. Without photoreceptor cells, the retina would not be able to detect light or transmit electrical signals to the brain.",
+            "llama2_digest": "No",	
+            "bard": "no The retina converts light into electrical signals through specialized photoreceptor cells called rods and cones. These cells contain photopigments that absorb light and trigger a cascade of biochemical reactions that ultimately result in the generation of electrical signals. Therefore, the retina cannot convert light into electrical signals without the involvement of photoreceptor cells.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":92,
+            "question": "Is the hormone glucagon involved in the synthesis of glycogen? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Glucagon is a hormone produced by the pancreas that stimulates the breakdown of glycogen, but it is not involved in the synthesis of glycogen. Glycogen synthesis is a process that occurs in the liver and muscles, and it involves the conversion of glucose molecules into a large, branched polymer of glucose molecules called glycogen. This process is mediated by the enzyme glycogen synthase, which is activated by insulin and other signaling pathways. Glucagon, on the other hand, stimulates the breakdown of glycogen by activating the enzyme glycogen phosphatase, which breaks down glycogen into glucose-6-phosphate, a compound that can then be used for energy production or stored in the liver and muscles as glycogen.",
+            "llama2_digest": "No",	
+            "bard": "no Glucagon acts in opposition to the synthesis of glycogen. It promotes the breakdown of glycogen into glucose, a process called glycogenolysis. The hormone insulin, not glucagon, plays a key role in stimulating the synthesis of glycogen.",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Glucagon is involved in the breakdown of glycogen to release glucose into the bloodstream, not in the synthesis of glycogen.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":93,
+            "question": "Can the parietal cells of the stomach secrete intrinsic factor? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. Intrinsic factor is a protein produced by the stomach that binds to vitamin B12 and enables its absorption in the small intestine. It is produced by the chief cells of the stomach, not the parietal cells. Parietal cells are responsible for producing hydrochloric acid and pepsinogen, which are important for the digestion of food in the stomach.",
+            "llama2_digest": "No",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":94,
+            "question": "Does the pituitary gland regulate the sleep-wake cycle? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The pituitary gland plays a role in regulating the sleep-wake cycle by producing hormones that influence the activity of other endocrine glands and neurotransmitters involved in the regulation of sleep and wakefulness. For example, the pituitary gland produces melatonin, a hormone that promotes sleepiness, and cortisol, a hormone that helps regulate the body's response to stress and promotes alertness. Imbalances in the production of these hormones can disrupt the sleep-wake cycle and lead to sleep disorders.",
+            "llama2_digest": "Yes",	
+            "bard": "yes",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "No. The regulation of the sleep-wake cycle is primarily controlled by the suprachiasmatic nucleus in the hypothalamus, not the pituitary gland.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":95,
+            "question": "Is the enzyme lysozyme involved in breaking down nucleic acids? Provide a yes or no answer",
+            "author": "No",
+            "llama2": "No. Lysozyme is an enzyme that breaks down bacterial cell walls, specifically the peptidoglycan layer, by hydrolyzing the glycosidic bond between N-acetylglucosamine and N-acetylmuramic acid. It is not involved in breaking down nucleic acids.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "No. Lysozyme is an enzyme involved in breaking down the cell walls of bacteria, not nucleic acids.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":96,
+            "question": "Can the body convert excess fats into glucose through gluconeogenesis? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "Yes. The body can convert excess fats into glucose through a process called gluconeogenesis. This process occurs in the liver and involves the conversion of non-carbohydrate sources, such as fatty acids, lactate, and glycerol, into glucose. Gluconeogenesis is an important metabolic pathway that helps maintain blood sugar homeostasis, especially during fasting or when the body is not receiving enough glucose from the diet.",
+            "llama2_digest": "Yes",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":97,
+            "question": "Is the hormone testosterone produced by the ovaries in females? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. Testosterone is a hormone produced by the testicles in males. Females do not produce testosterone in their ovaries. However, small amounts of testosterone can be produced in the ovaries through the action of the enzyme aromatase, which converts androstenedione into testosterone. This production of testosterone in the ovaries is minimal compared to the production in the testicles.",
+            "llama2_digest": "No",	
+            "bard": "Yes, testosterone is produced by the ovaries in females, although in much smaller quantities compared to males. ",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "No.",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        },
+        {
+            "id":98,
+            "question": "Does the ileum primarily absorb water from the digestive tract? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. The ileum is the lowest portion of the small intestine and is primarily responsible for the absorption of nutrients, including sugars, amino acids, and fats. While it does absorb some water, the majority of water absorption occurs in the jejunum and duodenum, which are higher up in the small intestine.",
+            "llama2_digest": "No",	
+            "bard": "no",
+            "bard_digest": "No",	
+            "chatgpt3.5": "Yes.",
+            "chatgpt3.5_digest": "Yes",
+            "note":""
+        },
+        {
+            "id":99,
+            "question": "Can the skin regulate body temperature through vasoconstriction? Provide a yes or no answer",
+            "author": "Yes",
+            "llama2": "No. Vasoconstriction is the narrowing of blood vessels, which can decrease blood flow to the skin and reduce heat loss. However, the skin does not have the ability to regulate body temperature through vasoconstriction. The regulation of body temperature is primarily done through sweating, which is the evaporation of water from the skin surface, and dilation of blood vessels near the skin surface, which allows more blood to flow to the skin and release heat.",
+            "llama2_digest": "No",	
+            "bard": "Yes, the skin can regulate body temperature through vasoconstriction.",
+            "bard_digest": "Yes",	
+            "chatgpt3.5": "No. Vasoconstriction is the narrowing of blood vessels and is not a mechanism used by the skin to regulate body temperature. The skin primarily regulates body temperature through processes such as sweating (evaporation) and vasodilation (widening of blood vessels).",
+            "chatgpt3.5_digest": "No",
+            "note":""
+        }
+    ]
+}
