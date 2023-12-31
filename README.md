@@ -61,3 +61,6 @@ Specifying the gpu type helped with avoiding out of memory errors.  Llama-2-7b r
 ```
 Memory requirements: 15.01 GB (14318 MiB).
 ```
+
+## Data from 2021 and 2018
+`cl/21` has a draft of data from the Spring 2021 from the 2021 edition of Computational Linguistics I.  There are 370 sentences, with circa five truth value judgments per sentence.  Data from 2018 are coming up.
