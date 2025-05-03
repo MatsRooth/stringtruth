@@ -1,0 +1,1 @@
+vocab.txt: text | cut -f2- -d' ' | tr ' ' '\12' | sort -u | egrep '[A-Z]' | egrep -v '(FRICATIVE|VOCALIC)' > vocab.txt
