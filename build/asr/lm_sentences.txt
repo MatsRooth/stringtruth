@@ -1,0 +1,1020 @@
+at least one vowel is capitalized
+there is only one t
+some vowel is not capitalized
+every glide precedes a vowel
+the letter that precedes letter five is a vowel
+letter three is unique
+the penultimate letter is not a vowel
+no consonant is unique
+there is at least one glide
+only letter two is unique
+there is a letter that is final and is repeated and is vocalic
+a unique fricative immediately precedes letter four
+letter four equals letter five exclusively or some e is penultimate
+all letters that are capitalized follow some glides
+every letter follows some fricative or at least one glide
+every fricative is initial and penultimate exclusively or letter three is repeated and unvoiced
+every vocalic even letter that precedes some vowel is a i and immediately follows a glide
+some mirrored vowels are adjacent to letter four and precede at least one consonant that is a glide or voiced
+at least one vocalic letter that is a not capital vowel is initial
+some letter follows not every vowel and not every vowel follows some letter
+every vowel that follows some consonant precedes some consonant that follows letter five
+every consonant that is preceded by a vowel is adjacent to a letter that is capitalized
+some consonant that is adjacent to a vowel follows every vowel that is adjacent to a consonant
+some consonant that some vowel that a digit precedes follows follows some vowel
+there is at least one r that a vowel that some p is adjacent to precedes
+every vowel that some consonant that a vowel follows precedes precedes some consonant
+only letters that a consonant that a vowel follows precede are adjacent to y
+a nasal that a letter that is consonantal and capital follows is adjacent to exactly one y
+some consonant that every vowel surrounds follows some vowel
+every vowel that precedes a consonant follows some consonant that is adjacent to a vowel
+some glide that is followed by x precedes a letter that is adjacent to letter four
+all vowels that are adjacent to a voiced letter follow a letter that occurs four times
+some letter that is upper case precedes every vowel that precedes a consonant
+an unvoiced letter that follows a voiced letter that follows a t occurs exactly once
+some vowel that a consonant follows precedes every consonant that a vowel follows
+every consonant that some vowel precedes follows some vowel that a consonant precedes
+there is a letter that follows a glide that precedes letter five
+a glide that is adjacent to an unvoiced consonant that letter six is adjacent to is capitalized
+some letter that a digit is adjacent to follows every digit that a letter is adjacent to
+an unvoiced letter that a glide follows is adjacent to a letter that letter two precedes
+some consonant that is adjacent to a vowel that is upper case follows some vowel
+every letter that a glide follows precedes a consonant that more than one t is adjacent to
+every vowel that follows a consonant that precedes a vowel precedes some consonant
+more than one capital that an x precedes is adjacent to a consonant that the fourth letter follows
+some letter that is adjacent to a consonant that is adjacent to a vowel precedes some consonant
+vowels that precede the letter x occur three times
+a vowel that the letter x is adjacent to occurs twice
+consonants that occur once precede a vowel that occurs twice
+consonants that occur once are adjacent to letter three
+letter three is adjacent to a letter that occurs four times
+a letter that letter two precedes occurs twice
+there are two vowels
+some vowels are capitalized or no consonant is capitalized
+most consonants are capitalized
+there are two capitalized vowels
+every consonant is not capitalized
+there is a consonant that is capitalized
+there is no vowel
+there are some vowels
+a vowel is capitalized
+some vowels are not capitalized
+some unique letter is capitalized
+all mirrored letters are not capitalized
+there is at least one vowel
+more than one p is mirrored
+every even letter is a vowel
+letter three follows some unique consonant
+only letter two immediately precedes a vowel
+every penultimate letter is a vowel
+there is some glide that follows letter two
+no unique vowel is centered
+every even letter is a glide or capitalized
+not all unvoiced glides are adjacent to letter two
+every vocalic letter that precedes letter two is a u
+no voiced vowel precedes not every p
+only letter four is a i and is penultimate
+only consonantal initial fricatives are unique exclusively or every u is initial and not repeated
+all fricatives that are unvoiced are not mirrored and precede no k
+some centered vowel that letter four is adjacent to follows a letter that follows a capital vowel
+some fricatives precede letter two or follow letter four and are adjacent to letter three
+every p is a consonant exclusively or there are some glides that are odd and not voiced
+at least one letter follows glides
+there is more than one vowel
+every consonant is penultimate or consonantal
+every vowel is unique and final
+letter one is unique
+letter one is unvoiced or vocalic
+letter two is centered or repeated 
+more than one vowel is capital
+no consonant immediately follows vowels
+some vowel equals letter one
+not every p is adjacent to letter three
+not all unvoiced consonants are a p or final
+letter five is a capital letter exclusively or letter two is centered
+every unvoiced capital letter is adjacent to letter one
+letter one equals letter four exclusively or letter two equals letter one
+all fricatives that precede a vowel that is capitalized are not capitalized
+some vowel that a fricative that all glides are adjacent to follows is not capitalized
+a q that some p that a vowel precedes is adjacent to follows letter three
+all glides that a vowel that a q precedes are adjacent to precede letter six
+a fricative that is adjacent to a q that is adjacent to letter three is voiced
+no vowel that follows a plosive that is unvoiced is capitalized
+a fricative that precedes a vowel that q follows is capitalized
+at least one glide that follows a q that precedes letter six is a y
+more than one vowel that is adjacent to a glide that follows letter two is a e
+no glide that a voiced plosive that follows letter three follows is capitalized
+some fricative that a capitalized vowel that is adjacent to letter two is adjacent to is voiced
+all alphabetical letters that a vowel that is not capitalized follows are unvoiced
+no capitalized consonant occurs once
+a capitalized vowel occurs once and follows a consonant
+no letter t precedes letter six or occurs three times
+some glide follows a vowel and occurs twice
+all vowels occur once and precede capitalized consonants
+the letter p occurs once and is adjacent to letter two
+every odd letter is equal
+only letter one is capitalized
+at least one vowel is repeated
+no vowels are final
+letter three is centered and vocalic
+more than one letter is capitalized
+every glide follows a consonant
+the last letter is a glide
+the letter a is mirrored
+every letter is equal
+a consonant immediately follows all vowels
+the initial letter is mirrored
+there are some vowels and some consonants
+there is an l and a t
+all consonants are final
+every even letter is a vowel
+the final letter is not unique
+at least one letter is a glide
+letter six is a b
+there is a capital letter adjacent to letter two
+a u is a vowel
+there is a vowel that is a u or final
+every letter adjacent to a u is not unique
+every letter is a vowel or unique
+every u is a vowel
+every vowel is a vocalic letter
+more than one letter precedes a p
+more than one vowel follows a consonant
+some vowel is capitalized
+some vowels are capitalized
+every p immediately follows a glide that is unique
+more than one capitalized letter is capital
+letter five equals letter two exclusively or there is a fricative
+at least one i is adjacent to letter five
+a p is adjacent to letter four and immediately follows a i
+all consonants that letter four is adjacent to follow at least one e
+no odd glides that letter five precedes are voiced or follow a u
+only even vowels that are adjacent to odd consonants follow letter three
+some glide that letter four follows is unvoiced and capitalized or is final
+the consonant that follows a vowel is capitalized
+the vowel that precedes a consonant is lower case
+the letter that starts the word is a vowel
+every vowel that follows letter three follows some consonant that follows some vowel
+every vowel that follows letter three follows every consonant that is capitalized
+the consonant that a vowel that letter five follows precedes is adjacent to a glide
+some glide that a consonant that is adjacent to a vowel precedes is capitalized
+the letter that a consonant that follows letter two precedes is a vowel
+at least one letter that is a glide is adjacent to a consonant that is a fricative
+no consonant that is capitalized precedes a vowel that is capitalized
+at least one letter that is a vowel that precedes letter five follows letter two
+there is no glide that is adjacent to a consonant that precedes a vowel
+there are more than one consonant that is adjacent to a vowel that follows letter three
+some letter that a consonant precedes is a letter that letter four is adjacent to
+the glide that letter four follows precedes a consonant that a vowel follows
+no vowel that a vowel is adjacent to is a vowel that a consonant precedes
+the vowel a occurs exactly four times
+the letter v occurs exactly twice and the letter k occurs exactly once
+no letter occurs more than three times
+glides occur no more than once
+letter three is adjacent to a vowel that occurs more than once
+every letter that occurs exactly twice is a consonant
+every letter that is adjacent to a consonant precedes some vowel that is capitalized
+some consonant that a vowel that a p is adjacent to precedes
+every vowel that a consonant that is lower case follows
+a consonant that a vowel that precedes p is adjacent to
+some vowel that is adjacent to a consonant follows every consonant that is capitalized
+every consonant that is adjacent to a vowel precedes a vowel that follows a consonant
+some letter that a consonant is adjacent to precedes every vowel that a consonant follows
+every consonant that a vowel is adjacent to follows a vowel that a consonant precedes
+some vowel that a consonant is adjacent to follows every letter that a consonant follows
+some consonant that is adjacent to a vowel that is capitalized
+every vowel that is adjacent to a consonant that is lower case
+some letter that is adjacent to a vowel that follows a consonant
+the letter that a vowel follows is capitalized
+the symbol that a consonant precedes is lower case
+the digit that a vowel precedes is even
+every vowel is capitalized
+two vowels are lower case
+letter one follows a vowel
+some vowels are capitalized
+some consonants are capitalized
+more than one consonant is capitalized
+all but one vowel is capitalized
+every consonant is unique
+all vowels are lower case
+letter three is a vowel
+all vowels are vocalic
+every consonant is final
+letter two precedes a vowel
+an a immediately follows letter three
+letter two is adjacent to letter three
+all vowels are unique
+vowels are odd
+all consonants are initial
+at least one consonant is a t
+no vowel is a
+there is exactly one vowel
+there is exactly one consonant that follows a vowel and is capitalized
+every vowel is adjacent to a consonant
+no consonant precedes a consonant
+some consonant that follows a vowel is capitalized
+no vowel is capitalized and is adjacent to a vowel
+every consonant is initial or is final
+there is at least one consonant that is capitalized
+there is no vowel that precedes a consonant
+there are exactly two vowels that are adjacent to a glide
+every vowel is capitalized
+there are no consonants
+some consonant is capitalized
+there is no consonant
+there are no vowels
+there is some vowel
+no vowel is capitalized
+there are some consonants
+some vowels are capitalized
+every consonant is capitalized
+the vowel that a letter that is capitalized follows is odd
+the consonant that a symbol that is lower case precedes is unique
+the glide that a digit that is odd follows is vocalic
+every glide precedes letter five
+all fricatives are voiced
+at least one fricative that precedes letter two is capitalized
+a glide is unique
+every vowel is repeated
+at least one consonant is not capitalized
+all fricatives precede letter three
+letter five follows letter four
+more than one fricative is voiced
+no vowel immediately follows a consonant
+all letters that are adjacent to letter two are mirrored
+there is a t that is a vowel or penultimate
+only letter two is unique and is voiced
+only vocalic capital letters precede a u
+some odd vowels immediately follow a k and are repeated
+all fricatives are penultimate or follow some unvoiced vocalic mirrored i
+only mirrored letters are not unique and there is no unvoiced i
+all glides are unique and all consonants are capitalized
+a fricative that letter two precedes is penultimate and is consonantal or repeated
+every u that letter three is adjacent to is capitalized and final
+the letter that a symbol that a consonant precedes follows is capitalized
+the vowel that a digit that a vowel follows is even
+the symbol that a letter that a symbol precedes is unique
+no consonants are capitalized
+letter three is final
+exactly one glide is capitalized
+letter two is consonantal
+every vowel precedes letter three 
+no glide follows letter three
+some consonant is capitalized
+there are exactly three consonants
+no glide is capitalized
+letter one is initial and is a consonant
+a vowel that a consonant that is capitalized follows is adjacent to a consonant
+a vowel that precedes a capitalized consonant is letter four
+a vowel that is followed by a consonant that is final is capitalized
+a consonant that is followed by a vowel that follows a consonant is final
+a consonant that follows a vowel that is adjacent to a consonant is repeated
+a vowel that is adjacent to a consonant that follows a vowel is capitalized
+a consonant that a vowel that is adjacent to a consonant follows is letter three
+a vowel that precedes a consonant that is mirrored is adjacent to a vowel
+a consonant that follows a vowel that follows a capital letter is penultimate
+a vowel that a capital letter follows that precedes a consonant is capitalized
+a consonant that follows a vowel that is adjacent to letter two is penultimate
+a vowel that a consonant is adjacent to that follows a vowel is repeated
+at least one vowel immediately follows a consonant
+letter three is final and is initial
+all consonants are glides
+only letter one is capitalized
+some vowel is repeated
+every letter that follows a consonant is vocalic
+no fricative precedes any vowels
+every vowel is adjacent to a vowel
+more than one letter is vocalic and is adjacent to letter three
+every capital letter is unique
+letter one equals letter three exclusively or there is a glide exclusively or some letter is unique
+there are some fricatives that are voiced
+a penultimate even t is capitalized and precedes a vocalic letter
+some consonants and all fricatives are penultimate
+at least one consonantal vowel is odd
+all even letters that are vocalic precede at least one i and more than one k
+no letters are final exclusively or no letters are initial or all unique letters are penultimate
+only mirrored vowels are consonantal exclusively or there is a centered even final i
+only consonantal fricatives are unique and there is no t that follows at least one u
+exactly two vowels are capitalized and follow a consonant
+there are no consonants that directly follow letter two and are penultimate
+no consonant is adjacent to a glide
+there are exactly two vowels that precede a fricative
+there are no vowels that are adjacent to letter three
+letter one equals letter four
+some repeated vowel precedes letter three
+there is a consonant that is penultimate and follows a vowel
+only letter two is a vowel and adjacent to a consonant
+no vowels follow a glide
+only letter three is a k and is odd
+every t and every p is mirrored
+no fricatives are a vowel or unvoiced
+only consonantal odd letters are repeated
+letter five equals letter four and there is a capitalized final fricative or there are no consonantal fricatives
+letter five equals letter three and all consonants are a p or voiced
+a consonantal fricative is final and a initial letter is not penultimate
+every e and no p are voiced and there is a e that immediately follows every consonant
+all vowels are adjacent to capital glides and letter four equals letter two
+letter two is a vowel
+three vowels precede letter one
+all vowels are capitalized
+exactly one glide is capitalized
+there are three consonants
+no vowel that follows letter three is capitalized
+there are strictly more vowels than consonants
+two consonants precede letter four
+every nasal is capitalized
+letter one and letter three are the same
+letter four is final
+there are some vowels or some glides 
+some vowels that are capitalized precede letter two
+letter three is penultimate
+there are more than one consonants
+letter five is b
+vowels are not capitalized and consonants are capitalized
+every nasal that precedes letter two is capitalized
+no glides follow letter two
+there is at least one consonant
+there are two vowels
+some vowels are capitalized or no consonant is capitalized
+most consonants are capitalized
+there are two capitalized vowels
+every consonant is not capitalized
+there is a consonant that is capitalized
+there is no vowel
+there are some vowels
+a vowel is capitalized
+some vowels are not capitalized
+every letter that follows letter three follows some vowel that precedes letter five
+some vowel that follows a consonant precedes a consonant that is adjacent to a vowel
+a consonant that a vowel that follows a capitalized letter precedes is adjacent to a vowel
+some vowel that a consonant that is adjacent to a vowel follows follows a consonant
+each consonant that a vowel that a consonant is next to follows is adjacent to another consonant
+a consonant that is capitalized follows every vowel that is next to a vowel
+each consonant that is adjacent to a vowel precedes a letter that is a vowel
+some vowel that a consonant precedes is followed by a consonant that a vowel is adjacent to
+every consonant that a capitalized letter is next to precedes a vowel that a consonant precedes
+every consonant that a vowel follows is adjacent to a vowel that a consonant precedes
+every consonant that is followed by a vowel that is capitalized follows a vowel
+each vowel that is adjacent to a consonant that precedes a capitalized letter is next to a consonant
+some consonant that follows a vowel that is next to another vowel precedes a letter
+the letter a occurs four times
+consonants that letter one is adjacent to occur once
+consonants that precede two vowels occur once
+the letters precede letter three occur four times
+consonants that letter three is adjacent to occur twice
+consonants that precede two consonants occur once
+every vowel is mirrored
+all capital letters are consonantal
+letter three is a glide or capitalized
+letter two is repeated
+every glide is final
+some capital letter is centered
+more than one vowel follows a consonant
+at least one consonant is unique
+every letter is capitalized
+a capital letter immediately precedes every vowel
+all vocalic letters that precede letter three are initial
+more than one vowel follows a fricative that is voiced
+letter three equals letter four exclusively or letter three precedes some fricatives
+not all letters that are repeated are capitalized
+not every u is mirrored exclusively or there is a centered vowel
+some e or every t or a u is odd and is not capitalized
+only penultimate vowels are unvoiced or repeated or follow some fricatives and are unvoiced
+some vowels precede a unique consonant or more than one vocalic even letter and are capitalized
+only unique vowels that are not mirrored are capital and are adjacent to letter five
+all glides are capitalized
+there is some vowel that follows a glide
+at least one letter that follows letter three is unique
+every letter is unique
+no unique letter is a vowel
+some letter that precedes letter five is vocalic
+some letters are not vocalic
+the letter that immediately precedes letter four is letter three
+the vowel that precedes a consonant is not consonantal
+there are some mirrored letters
+every letter that follows all glides is a e or consonantal
+there is a final capitalized e that is mirrored
+all repeated letters follow some voiced glides
+all glides precede some fricatives that are mirrored
+more than one p follows some k that precedes every t
+there are three vowels and four consonants
+all letters are letters
+the third letter is distinct from the second letter 
+the fourth letter is a vowel and the fifth letter is a consonant
+no letters are consonants
+there are at most three vowels and at least two consonants
+there are at least three vowels and at most two consonants
+letter three is a consonant
+letter four is a vowel and letter five is not a consonant
+there is a consonant at letter five
+one vowel is capitalized
+there are four consonants
+one consonant is capitalized
+there are three vowels
+there are no letters
+there are no vowels
+there are no consonants
+there is a consonant and there is a vowel
+there is a vowel
+there is a consonant
+the last letter is vocalic
+no two vowels are the same
+letter two is a glide
+the first letter and last letter are the same
+every consonant follows letter two
+there are exactly two glides
+the first letter is a vowel
+at least two letters are vocalic
+exactly one letter follows letter two
+no two letters are the same
+every consonant that is adjacent to a vowel follows a vowel that is vocalic
+letter two is a vowel that at least two consonants are preceded by
+a vowel that precedes two consonants that are adjacent to it is letter two
+letter two is a vowel that two consonants that it precedes are adjacent to
+every vowel that a consonant is adjacent to is followed by a vowel that is vocalic
+every consonant that is adjacent to a vowel that is vocalic follows a vowel
+every vowel that a consonant that follows a vocalic vowel is adjacent to is preceded by a consonant
+a vowel that is adjacent to a consonant follows some consonant that is a glide
+a vowel that a consonant is adjacent to follows some consonant that is a glide
+a vowel that is adjacent to a consonant that is a glide follows a consonant
+a vowel that a consonant that is a glide is adjacent to follows a consonant
+a vowel that precedes at least two consonants is letter two
+letter two is a vowel
+there is exactly one vowel
+letter one is consonantal
+every vowel follows letter three
+every consonant precedes letter four
+some vowel is capitalized
+at least two consonants are capitalized
+every vowel is capitalized
+there is at least one glide
+exactly one vowel is capitalized
+there is at least one fricative
+letter three immediately precedes a consonant
+fricatives precedes every a
+every fricative follows letter three
+glides precede letter two
+no vowel immediately precedes letter two
+letter two and letter three are equal
+letter four is final
+every vowel is mirrored
+letter one immediately follows a vowel
+every other letter is a vowel
+every consonant is voiced
+no letters are vowels
+every consonant is capitalized
+letter four is not unique
+there is at least one h
+more than one letter is not vocalic
+letter one is unvoiced
+letter one equals letter three
+letter two follows an a
+some consonant is capitalized
+every vowel precedes a consonant
+every glide is not capitalized
+no vowel is final
+every consonant is surrounded by vowels
+every glide is in the second half
+every third letter is vocalic
+every consonant is unique
+two vowels are capitalized
+every liquid is lower case
+exactly two vowels are consonants
+every vowel is a glide
+exactly three consonants are vowels
+exactly four consonants are capitalized
+every vowel is capitalized
+no consonants are vowels
+some glides are capitalized
+there are some consonants capitalized
+there is a vowel
+there is a glide
+some consonant that follows every vowel precedes some consonant that follows every vowel
+a consonant that precedes every vowel exists
+every vowel that an a follows exists
+every a that a vowel that is capitalized precedes exists
+every consonant that a vowel that an a follows is next to exists
+a vowel that a consonant follows is capitalized
+a consonant that a vowel that is capitalized precedes exists
+a vowel that a consonant that a t is adjacent to follows exists
+some p that is adjacent to a consonant exists
+some vowel that a p precedes exists
+some p that a consonant that is capitalized is adjacent to exists
+some consonant that a vowel that a p is next to follows exists
+every a that follows a vowel exists
+the letter o occurs twice
+consonants that precede the letter e occur once
+vowels that follow a consonant occur four times
+the letter x that follows the letter a occurs once
+vowels that follow the letter c occur twice
+a consonant that follows the letter s occurs twice
+every consonant is a k
+no vowel is a u
+every consonant is a p
+every consonant is a t
+every vowel is a u
+letter one is a k
+letter one is a p
+no consonant is a k
+no consonant is a p
+no consonant is a t
+some consonants are a glide or capitalized and are initial
+not all final glides precede a u
+every consonant is a t and follows some vowels
+some odd consonants follow at least one k
+at least one t that letter two is adjacent to follows some voiced glides
+only letter two is final and some vowel that letter four precedes is a k and centered
+all consonants that follow a capital consonant are unique and letter four equals letter one
+only capital vowels are repeated or are mirrored exclusively or there is more than one i or at least one k
+every even consonant is adjacent to letter four exclusively or there is a p
+no vowel is capitalized
+some consonant is final
+there are no consonants that follow vowels
+every glide is immediately adjacent to letter one
+all vowels are consonants that follow glides and are initial
+some glide precedes letter three
+exactly one vowel follows every consonant
+letter four is capitalized and is a glide
+at least one consonant precedes every vowel
+letter two is initial and follows letter one
+letter four is repeated
+there are no glides
+every letter is vocalic or is unvoiced
+every letter is mirrored
+no vowel is centered
+more than one vowel is capitalized
+some letter is capitalized and vocalized
+some consonant immediately precedes letter three
+some repeated letter is vocalic
+exactly two consonants are capitalized
+all unvoiced fricatives are even
+every odd consonant and some unvoiced letter is adjacent to letter two
+every k and every e is adjacent to letter five
+no vowel is voiced and is final
+all vowels immediately follow a t
+letter five equals letter three or there is a i that letter three precedes
+every vowel that is a i or a u follows at least one glide
+every letter that is not unique is adjacent to letter five or is odd
+only repeated vowels precede a k or some even letters are vocalic and unique
+every consonant that letter two precedes is voiced or unvoiced and no k is consonantal and capital
+the first letter is a consonant 
+there are three consonants
+every letter is either capitalized or a vowel
+there are two vowels
+there is a consonant before the letter a
+the letter d is followed by a consonant
+the second letter is immediately followed by a vowel
+all consonants are not capitalized
+there are at most two vowels
+the letter e shows up twice
+a glide is a vowel
+some glide that precedes letter five is capitalized
+some vowel that follows letter four is final
+every consonant is even
+every vowel is adjacent to letter one
+some capitalized letter is a fricative
+every glide that is adjacent to letter two is vocalic
+every vowel that follows letter three is unique
+no letters are vocalic
+every consonant that is capitalized immediately precedes a vowel
+all fricatives that are voiced are even
+not all consonants precede a final u
+only unvoiced fricatives are a centered consonant or mirrored
+no letters that are consonantal precede a t or a u
+some consonants immediately follow a penultimate letter
+all letters that are vocalic or centered and are repeated are unique exclusively or there is no mirrored vocalic voiced fricative
+every vocalic letter that repeated vowels precede follows no i and no k
+a final letter is a glide and odd or follows more than one unvoiced repeated consonant
+letter five is not adjacent to letter three or follows more than one t
+no vowel that is capitalized precedes some letter that follows some glide
+vowels that precede no consonants occur twice
+the letter a occurs once
+vowels that follow consonants occur once
+consonants that are not adjacent to letter four occur twice
+letters that consonants are adjacent to occur twice
+letter two occurs once
+some fricative that follows a vowel precedes a vowel that is capitalized
+every consonant precedes a vowel that a fricative that precedes a liquid is adjacent to 
+every unique consonant that a vowel that immediately precedes a consonant is adjacent to is capitalized
+some unique glide that a vowel that a vowel immediately precedes immediately precedes is capitalized
+every plosive that precedes a consonant follows some vowel that is adjacent to a liquid
+some nasal that follows a liquid precedes a letter that is the third letter
+every consonant that follows a vowel that is capitalized is adjacent to a glide
+every liquid that is adjacent to a vowel that is adjacent to a vowel is capitalized
+some letter that is adjacent to a fricative that is adjacent to a capitalized vowel is capitalized
+every vowel that a glide precedes is surrounded by consonants that a plosive follows
+some fricative that a vowel follows is adjacent to a liquid that a vowel follows
+every letter that the letter three follows precedes some vowel that a liquid is adjacent to
+more than one letter follows letter two
+some capitalized letters are unvoiced
+every capital letter is a vowel
+every letter is centered
+only letter three is centered
+all repeated letters are capitalized
+there is more than one consonant
+no vowel immediately follows letter two
+letter one is not unique
+a repeated letter is a vowel
+no consonant precedes some vowels
+letter five equals letter five exclusively or letter five is unique
+there is a centered e and a u that follows a i
+every vowel that letter one precedes precedes a unvoiced centered even glide
+all fricatives are consonantal and unvoiced and there is no fricative that is repeated
+only centered vowels follow even consonants and no glide immediately follows a p
+more than one fricative that letter two follows follows a consonantal fricative
+there are some glides that immediately precede at least one e and more than one u
+every letter is alphabetical
+no vowel is consonantal
+at least one consonant is plosive
+there is at least one repeated vowel
+there is exactly one capitalized letter
+some letter precedes letter one
+letter four is final
+less than two letters are consonantal
+letter two is neither a plosive nor a glide
+letter three and letter four are the same
+there is at least one glide that follows a vowel
+no letter immediately follows a consonant
+no consonant follows letter two
+exactly two consonants follow letter three
+some vowel is adjacent to letter two
+there is some consonant that is final
+no vowel is final and penultimate
+there is a vowel that is final and repeated
+exactly one glide precedes the penultimate letter
+there is a vowel that is capitalized and repeated
+every vowel is unique 
+only letter three is vocalic
+a glide is penultimate and is adjacent to at least one vowel 
+there is a consonant that is final and is capitalized
+more than one vowel immediately follows letter three
+all consonants precede letter four
+only letter two is repeated
+letter one is capitalized exclusively or letter two is capitalized
+no consonant is adjacent to more than one vowel
+some vowel follows every consonant
+every letter that precedes a t precedes a u
+no letter that every consonant follows is capitalized
+there is exactly one letter that precedes a d
+some t immediately follows a u and immediately precedes a d
+there is at most one consonant
+letter one is final
+every letter that a t follows follows a t
+there is no capitalized u
+no consonant is repeated
+some consonant is adjacent to a repeated vowel
+all letters are voiced
+there is a final vowel
+all vowels follow consonants
+at least one glide is repeated
+every letter is capitalized or consonantal
+exactly one consonant is penultimate
+letter three is unique
+letter four is centered and is unvoiced
+only letter two is even
+some vowel is adjacent to letter four
+every final capital letter is a vowel or vocalic
+every initial unique consonant is adjacent to letter two
+there are some glides that are centered
+every fricative is centered and is repeated
+no capital letter follows a fricative or more than one vowel and at least one glide
+every vowel is not vocalic exclusively or a centered p follows some even consonant and is not odd
+no glides that are odd follow more than one t or a capitalized voiced fricative
+letter three equals letter four exclusively or letter three equals letter two and letter two equals letter four
+all glides are odd and voiced and there are no letters that are a t or repeated
+some consonants immediately precede at least one glide or immediately precede some e
+some vowel that is adjacent to a consonant follows every vowel that is capitalized
+some consonant that a vowel that is capitalized precedes is mirrored
+a letter that a vowel that is centered is adjacent to follows a capital consonant
+every consonant that a glide that is capitalized is adjacent to is followed by a vowel
+every consonant that is adjacent to a vowel is followed by a capital letter
+a glide that is adjacent to a vowel precedes a consonant that is mirrored
+some vowel that a consonant is adjacent to is followed by another vowel
+every consonant that a vowel follows is preceded by a capital
+a letter that a glide is adjacent to is mirrored and capitalized
+some vowel that is adjacent to a consonant that is capitalized precedes a mirrored consonant
+a glide that is adjacent to a vowel that is even precedes every consonant
+every consonant that is adjacent to a vowel that is centered follows a glide
+the last letter follows a vowel
+there is exactly one vowel and one consonant
+the second letter is preceded by a consonant
+there is exactly one vowel
+there are no vowels or consonants
+at least one letter is a vowel
+at least one consonant is final
+no vowels are capitalized
+every vowel is capitalized
+more than one letter is capitalized
+exactly one vowel is capitalized
+all letters are consonants
+there are an equal number of vowels and consonants
+every capitalized letter is adjacent to a vocalic letter
+there is only one letter
+there are more than two capitalized letters
+there are less vowels than consonants
+there are no glides
+the letter following the initial letter is not a consonant
+some letters are vowels
+more than one vowel precedes a consonant
+every even letter or some odd letter is a consonant
+every unvoiced letter is repeated
+only capitalized letters are final
+there is at least one vowel that is capitalized
+letter three follows a vowel or a capitalized letter
+no i immediately precedes letter four
+there is a fricative that is centered
+there are more than one unique glides
+all unvoiced letters are odd
+no letter is a p and is a i and is a e
+more than one glide precedes letter three
+letter three equals letter two exclusively or letter two equals letter four
+some fricative is unique and is centered
+every u is capitalized and is repeated
+a centered consonant that is a glide follows no consonants and precedes letter five
+some u is final exclusively or there is a consonantal initial fricative that precedes at least one i
+some i that letter one precedes follows a capital vowel
+at least one u is initial or final and no fricatives are penultimate or repeated
+letter one is centered
+letter one is capitalized or letter two is capitalized
+every letter is mirrored
+only vowels are capitalized
+letter two is capitalized exclusively or letter four is consonantal
+no consonant is capitalized
+some consonant is repeated
+letter three immediately follows letter two
+some vowel precedes a consonant
+every vowel is unique
+all vowels precede more than one glide
+all consonants are mirrored and are capitalized
+some consonants follow a i and are even
+at least one vocalic letter immediately follows a glide
+letter three follows only capital vowels that are capital
+all consonants are final or initial and there is no consonantal fricative that is not penultimate
+no letters that are not final are a t or not consonantal and all fricatives are adjacent to letter three
+letter five equals letter four and a u that is a fricative and initial precedes a k
+every k that letter two follows follows a capitalized i and is capitalized
+every vowel is capitalized
+letter two is a vowel and is capitalized
+no consonant is capitalized
+letter one is a consonant
+exactly two consonants are glides
+there is at least one vowel
+there are at least two consonants
+some vowel is initial
+every vowel follows a glide
+no consonants are adjacent to a vowel
+letter one equals letter three
+more than one letter is vocalic and is capitalized
+only letter two is vocalic
+a glide is adjacent to letter five
+no vowel is repeated
+every capitalized letter follows a vowel or a glide
+some vocalic letter immediately precedes a consonant
+there is at least one consonant
+a vowel that follows a consonant is unique
+every letter is a fricative
+not only letter four is a i or unvoiced
+at least one repeated consonantal fricative is unvoiced
+a initial voiced consonant immediately precedes letter five
+some e is mirrored exclusively or a e is initial
+no t is mirrored and centered and there are no consonants that immediately precede a e
+no glide that follows a vowel that follows all capitalized letters follows a p
+letter five is a consonant and follows more than one letter that is a e
+all glides are capital exclusively or some unique letters precede a e that is odd and capitalized
+only letter two is vocalic or immediately follows a centered even p
+some consonant that precedes a vowel follows every vowel that is adjacent to a vowel
+a consonant that a vowel that a p precedes follows precedes a letter
+a letter that a consonant that a vowel precedes follows follows a vowel
+a consonant that a vowel that a capital letter precedes precedes precedes a vowel
+every letter that is capitalized precedes a consonant that is adjacent to a vowel
+some letter that is lower case precedes a letter that is adjacent to a vowel
+a vowel that a consonant follows precedes every consonant that a vowel precedes
+a letter that a capital letter follows precedes a letter that a consonant is adjacent to
+every vowel that a consonant is adjacent to precedes a consonant that a vowel follows
+a letter that a consonant that is adjacent to a vowel follows precedes a vowel
+a vowel that a consonant that is capitalized precedes precedes every consonant
+every letter that a vowel that is lower case precedes follows a vowel
+consonants that follow the letter two occur twice
+vowels that precede the letter three occur once
+letters that precede the letter three occur twice
+letters that the letter three follows occur once
+consonants that the letter two precedes occur twice
+vowels that the letter three follows occur once
+some consonant that precedes a vowel follows every vowel that is adjacent to a consonant
+a consonant that some vowel that a consonant precedes follows precedes a vowel
+some vowel that every consonant that a vowel follows is adjacent to precedes a consonant
+every consonant that some vowel that a consonant is adjacent to precedes follows a vowel
+every vowel that follows a consonant precedes some consonant that is adjacent to a vowel
+a consonant that is adjacent to a vowel precedes every consonant that follows a vowel
+some vowel that a consonant precedes follows every consonant that a vowel precedes
+every consonant that a vowel follows precedes some vowel that a consonant follows
+a consonant that a vowel is adjacent to precedes every vowel that a consonant is adjacent to
+a consonant that is adjacent to a vowel that is capitalized precedes a vowel
+some vowel that follows a consonant that is capitalized precedes every consonant
+every consonant that precedes a vowel that precedes a consonant follows a vowel
+the letter e occurs twice
+vowels that consonants surround occur once
+letters that appear in even positions occur four times
+the consonant that follows the first vowel occurs twice
+consonants that precede vowels occur once
+the vowel that ends the string occurs four times
+exactly two consonants
+letter three is final
+no vowel is capitalized
+exactly two consonants are capitalized
+letter two is consonantal
+every vowel precedes letter three
+exactly one vowel follows letter two
+there are exactly two vowels
+no glide is capitalized
+letter one is initial and is a consonant
+every vowel comes last
+the first and last letters are vowels
+every vowel comes first 
+the first letter is a vowel
+no letter is a vowel
+the last letter is a vowel
+there are four vowels
+there are no vowels adjacent to a consonant
+every vowel is adjacent to a consonant
+the first and last letters are not vowels 
+some vowel that precedes letter six follows every consonant that follows letter two that precedes some vowel
+the letter p occurs three times
+vowels that digit five is adjacent to occur once
+symbols that follow all consonants occur twice
+letters which appear in pairs occur four times
+the number that occurs once is the digit seven
+vowels which occur three times include the letter e
+some vowel that is adjacent to a consonant follows every consonant that is adjacent to a vowel
+some consonant that a vowel that is capitalized precedes follows every vowel
+every vowel that some consonant that a vowel follows precedes is adjacent to a consonant
+some consonant that a vowel that a consonant is adjacent to follows precedes every vowel
+every consonant that precedes a vowel is followed by some vowel that is adjacent to a consonant
+some letter that is adjacent to an upper case consonant precedes every consonant that is adjacent to a vowel
+some consonant that is adjacent to a vowel that is capitalized precedes every vowel
+a vowel that is adjacent to a consonant that precedes a vowel follows every consonant
+every consonant that is adjacent to a vowel that is adjacent to a vowel follows some vowel
+some consonant that a vowel precedes follows every vowel that a consonant is adjacent to
+every vowel that a consonant follows precedes some consonant that a vowel is adjacent to
+some vowel that a consonant is adjacent to follows every consonant that a vowel precedes
+every t that precedes some p follows every t that some k follows
+every consonant that is adjacent to a vowel follows every letter that precedes a consonant
+every letter follows every consonant that some vowel that a consonant is adjacent to precedes
+a vowel precedes each letter that every consonant that a vowel follows precedes
+a consonant follows each vowel that every letter that a consonant precedes follows
+some vowel that precedes a consonant follows each letter that is capitalized
+some letter that occurs after a vowel precedes every consonant that is adjacent to a vowel
+a letter that is adjacent to a vowel that precedes a consonant occurs frequently
+every consonant that follows a letter that is capitalized occurs twice
+some vowel that is preceded by a consonant that is adjacent to a vowel occurs often
+some consonant follows every letter that a vowel that is capitalized precedes
+any vowel precedes every consonant that a letter that is adjacent to a vowel follows
+a consonant follows each vowel that a letter that follows a consonant precedes
+the letter s occurs twice
+vowels that consonants follow occur three times
+consonants that begin words occur once
+a vowel that a precedes occurs once
+some consonant that follows e occurs twice
+the letter that o follows occurs once
+the letter a occurs once
+the letter t occurs twice
+the letter e occurs four times
+letters that follow the letter b occur once
+letters that the word repeats occur twice
+vowels that the string contains occur four times
+a fricative that is unique immediately precedes a vowel that is centered
+every vowel that a glide follows is adjacent to a consonant that a p precedes
+a consonant that a vowel follows is capitalized and mirrors a vowel that a glide is adjacent to
+some letter that a fricative immediately follows precedes a glide that a t is adjacent to
+a vowel that a consonant that is capitalized follows is repeated
+a consonant that a vowel that is unvoiced follows is mirrored
+every glide that a fricative that is adjacent to a vowel precedes is unique
+a glide that a vowel that a p follows immediately precedes is capitalized
+a consonant that a vowel that is adjacent to a fricative follows is repeated
+a vowel that a consonant that a glide is adjacent to follows is voiced
+some vowel that is repeated follows a consonant that is capitalized
+every consonant that is voiced is adjacent to a vowel that is final
+some vowel that is adjacent to a consonant follows a vowel
+some consonant that a vowel that is capitalized is adjacent to follows a vowel
+every vowel that a consonant that follows a vowel is adjacent to precedes a consonant
+a vowel that a consonant that is a glide is adjacent to follows a consonant
+every consonant that is adjacent to a vowel precedes a consonant
+a letter that is adjacent to a vowel follows a consonant
+some consonant that a vowel precedes follows a vowel
+every vowel that a consonant follows is adjacent to a vowel
+a consonant that a vowel is adjacent to precedes a consonant
+some vowel that is adjacent to a consonant that is capitalized follows a consonant
+every consonant that is adjacent to a vowel that is vocalic precedes a vowel
+a consonant that is adjacent to a letter that is a vowel follows a vowel
+some letter that is adjacent to a consonant is repeated and some letter that is capitalized is final
+a consonant that a vowel that a p is adjacent to follows is capitalized
+a vowel that a letter that follows a t precedes is final
+a letter that a vowel that follows a consonant follows is voiced
+a vowel that follows a glide precedes every vowel that is voiced
+a consonant that is centered follows a letter that is adjacent to a vowel
+a vowel that a consonant follows is voiced and a consonant that a glide follows is final
+a letter that some capital vowel follows is a fricative and a consonant that a vowel follows is odd
+a vowel that a repeated letter precedes is capitalized and a letter that a consonant follows is centered
+a letter that is adjacent to a vowel that is capitalized is final
+a consonant that is adjacent to a letter that is repeated is a glide
+a vowel that is adjacent to a consonant that is centered is unvoiced
+the initial letter and the final letter are the same
+letter two is either a vowel or capitalized
+all vowels are repeated
+every vowel is within letter two and letter eight
+letter two is alphabetical
+all but one vowel is capitalized
+every vowel is balanced
+every vowel is surrounded by consonants
+vowels are consecutive
+the first letter is initial
+every consonant is unique
+letter four and letter six are adjacent
+letter five is unvoiced
+the penultimate letter is a vowel
+every vowel immediately precedes a consonant
+only one consonant is capitalized
+some vowel is repeated
+letter two is an n
+every consonant follows letter one
+there are exactly two vowels in the second half
+every letter is a glide except for letter one
+there is a glide and every vowel is capitalized
+some vowel is a glide
+every vowel precedes every consonant
+a vowel immediately precedes t
+every letter is a vowel
+every letter in the second half is alphabetical
+every plosive is not a vowel
+the middle letter is funny
+some vowel that is adjacent to a p precedes every consonant that is adjacent to a vowel
+every consonant that some vowel that a p is adjacent to follows is adjacent to a t
+a vowel that a consonant that follows an a is adjacent to precedes every glide
+no consonant that some vowel that a t is adjacent to precedes follows a vowel
+every letter that is adjacent to a consonant follows some vowel that is adjacent to a capital letter
+no consonant that is adjacent to an a precedes a vowel that is adjacent to a t
+some consonant that a vowel is adjacent to follows every vowel that a consonant is adjacent to
+no vowel that a capital letter is adjacent to precedes some consonant that a vowel is adjacent to
+every glide that a t is adjacent to follows a consonant that a vowel is adjacent to
+every consonant that is adjacent to a vowel that is capitalized precedes a p
+some vowel that is adjacent to a consonant that is adjacent to an a follows a t
+a letter that is adjacent to a consonant that follows a vowel precedes every vowel
+every e that follows some glide follows some k that precedes some t
+there is a vowel that is adjacent to a vowel and follows a fricative that is capitalized
+every letter that some letter that some letter follows follows is a consonant
+only consonants follow vowels that plosives that nasals are adjacent to precede
+every letter that a consonant that a capitalized letter precedes is adjacent to is a vowel
+no vowel that is capitalized precedes a consonant that is capitalized
+the letter that no letters follow is adjacent to a plosive that is unvoiced
+there is an r that is adjacent to an e that is adjacent to a d
+every letter that is a voiced consonant that follows a vowel is adjacent to the third letter
+there is a q that immediately precedes a letter that is not a u
+the fourth letter follows every consonant that a nasal that is adjacent to a fricative follows
+exactly one e follows every vowel that a vowel that follows a glide precedes
+no a is adjacent to an n that some nasal that is capitalized precedes
+capitalized consonants occur twice
+vowels that the letter u follows occur once
+consonants that follow a consonant occur three times
+the letter e occurs zero times
+vowels that glides precede occur two times
+plosives that are adjacent to a plosive occur one time
+every consonant in the second half is capitalized
+all but one consonant is capitalized
+every vowel is unique
+some vowel is repeated
+at most three consonants are capitalized
+letter three is a capital or is a vowel
+every vowel is lower case
+more than one vowel is capitalized
+every consonant except letter three is capitalized
+three consonants are lower case
+an e immediately follows letter five
+every vowel is capital
+some f precedes letter five
+at least one k precedes letter three
+no o is capital
+more than one u is adjacent to letter five
+no v immediately precedes letter two
+more than one g follows letter four
+no d are capitalized
+letter two equals letter three
+there is more than one capitalized vowel
+there are no capitalized letters
+a consonant immediately precedes every vowel
+letter two is vocalic or letter three is unique
+all capitalized vowels are final
+at least one glide is repeated
+there are voiced consonants
+all vowels are capitalized and all consonants are not capitalized
+only glides are repeated
+a vowel is adjacent to every consonant
+all consonantal letters are a t or repeated
+every even consonantal capital letter is unique
+no letter is consonantal and follows a k
+a penultimate even unique fricative precedes no initial consonant
+only even consonants immediately follow more than one t
+a letter that is penultimate is unique exclusively or there are no letters that are unique
+there is no even glide that is capital or precedes more than one t or a e
+all letters that follow more than one e that are capitalized are odd
+every k is centered and immediately precedes a vowel that is vocalic and even
+every i that is adjacent to letter four is vocalic and unique or follows a p

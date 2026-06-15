@@ -1,0 +1,167 @@
+a a
+adjacent a d j a c e n t
+after a f t e r
+all a l l
+alphabetical a l p h a b e t i c a l
+an a n
+and a n d
+another a n o t h e r
+any a n y
+appear a p p e a r
+are a r e
+at a t
+b b
+balanced b a l a n c e d
+before b e f o r e
+begin b e g i n
+but b u t
+by b y
+c c
+capital c a p i t a l
+capitalized c a p i t a l i z e d
+case c a s e
+centered c e n t e r e d
+comes c o m e s
+consecutive c o n s e c u t i v e
+consonant c o n s o n a n t
+consonantal c o n s o n a n t a l
+consonants c o n s o n a n t s
+contains c o n t a i n s
+d d
+digit d i g i t
+directly d i r e c t l y
+distinct d i s t i n c t
+e e
+each e a c h
+eight e i g h t
+either e i t h e r
+ends e n d s
+equal e q u a l
+equals e q u a l s
+even e v e n
+every e v e r y
+exactly e x a c t l y
+except e x c e p t
+exclusively e x c l u s i v e l y
+exists e x i s t s
+f f
+fifth f i f t h
+final f i n a l
+first f i r s t
+five f i v e
+follow f o l l o w
+followed f o l l o w e d
+following f o l l o w i n g
+follows f o l l o w s
+for f o r
+four f o u r
+fourth f o u r t h
+frequently f r e q u e n t l y
+fricative f r i c a t i v e
+fricatives f r i c a t i v e s
+from f r o m
+funny f u n n y
+g g
+glide g l i d e
+glides g l i d e s
+h h
+half h a l f
+i i
+immediately i m m e d i a t e l y
+in i n
+include i n c l u d e
+initial i n i t i a l
+is i s
+it i t
+k k
+l l
+last l a s t
+least l e a s t
+less l e s s
+letter l e t t e r
+letters l e t t e r s
+liquid l i q u i d
+lower l o w e r
+middle m i d d l e
+mirrored m i r r o r e d
+mirrors m i r r o r s
+more m o r e
+most m o s t
+n n
+nasal n a s a l
+nasals n a s a l s
+neither n e i t h e r
+next n e x t
+no n o
+nor n o r
+not n o t
+number n u m b e r
+o o
+occur o c c u r
+occurs o c c u r s
+odd o d d
+of o f
+often o f t e n
+once o n c e
+one o n e
+only o n l y
+or o r
+other o t h e r
+p p
+pairs p a i r s
+penultimate p e n u l t i m a t e
+plosive p l o s i v e
+plosives p l o s i v e s
+positions p o s i t i o n s
+precede p r e c e d e
+preceded p r e c e d e d
+precedes p r e c e d e s
+q q
+r r
+repeated r e p e a t e d
+repeats r e p e a t s
+s s
+same s a m e
+second s e c o n d
+seven s e v e n
+shows s h o w s
+six s i x
+some s o m e
+starts s t a r t s
+strictly s t r i c t l y
+string s t r i n g
+surround s u r r o u n d
+surrounded s u r r o u n d e d
+surrounds s u r r o u n d s
+symbol s y m b o l
+symbols s y m b o l s
+t t
+than t h a n
+that t h a t
+the t h e
+there t h e r e
+third t h i r d
+three t h r e e
+time t i m e
+times t i m e s
+to t o
+twice t w i c e
+two t w o
+u u
+unique u n i q u e
+unvoiced u n v o i c e d
+up u p
+upper u p p e r
+v v
+vocalic v o c a l i c
+vocalized v o c a l i z e d
+voiced v o i c e d
+vowel v o w e l
+vowels v o w e l s
+which w h i c h
+within w i t h i n
+word w o r d
+words w o r d s
+x x
+y y
+zero z e r o
