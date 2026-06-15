@@ -50,8 +50,8 @@ def main():
 
     results = decoder(emissions.cpu())
 
+    # Build hyps
     hyps = []
-
     for rank, hyp in enumerate(results[0], start=1):
         hyps.append({
             "rank": rank,
@@ -59,39 +59,41 @@ def main():
             "words": list(hyp.words),
         })
 
-        if args.output_format == "json":
-            out = {
-                "wav": args.wav,
-                "utt_id": os.path.splitext(os.path.basename(args.wav))[0],
-                "nbest": hyps,
-            }
+    # Output result embedding hyps as json
+    if args.output_format == "json":
+        out = {
+            "wav": args.wav,
+            "utt_id": os.path.splitext(os.path.basename(args.wav))[0],
+            "nbest": hyps,
+        }
+        
+        print(json.dumps(out, indent=2))
 
-            print(json.dumps(out, indent=2))
+    #  .. or as text
+    else:
+        print()
+        print("Top hypotheses")
+        print("==============")
+        
+        for hyp in hyps:
+            print(
+                f"{hyp['rank']:2d}  "
+                f"score={hyp['score']:8.3f}  "
+                + " ".join(hyp["words"])
+            )
 
-        else:
             print()
             print("Top hypotheses")
             print("==============")
-            
-            for hyp in hyps:
+
+            for i, hyp in enumerate(results[0]):
+                words = hyp.words
+                score = hyp.score
+                
                 print(
-                    f"{hyp['rank']:2d}  "
-                    f"score={hyp['score']:8.3f}  "
-                    + " ".join(hyp["words"])
+                    f"{i+1:2d}  score={score:8.3f}  "
+                    + " ".join(words)
                 )
-
-                print()
-                print("Top hypotheses")
-                print("==============")
-
-                for i, hyp in enumerate(results[0]):
-                    words = hyp.words
-                    score = hyp.score
-                    
-                    print(
-                        f"{i+1:2d}  score={score:8.3f}  "
-                        + " ".join(words)
-                    )
 
 
 if __name__ == "__main__":
