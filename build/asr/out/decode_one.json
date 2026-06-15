@@ -1,0 +1,646 @@
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    }
+  ]
+}
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 2720.0073494315147,
+      "words": [
+        "no",
+        "consonants",
+        "is",
+        "unique"
+      ]
+    }
+  ]
+}
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 2720.0073494315147,
+      "words": [
+        "no",
+        "consonants",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 2714.720900475979,
+      "words": [
+        "no",
+        "consonant",
+        "e",
+        "is",
+        "unique"
+      ]
+    }
+  ]
+}
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 2720.0073494315147,
+      "words": [
+        "no",
+        "consonants",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 2714.720900475979,
+      "words": [
+        "no",
+        "consonant",
+        "e",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 4,
+      "score": 2713.5421922802925,
+      "words": [
+        "no",
+        "consonant",
+        "t",
+        "is",
+        "unique"
+      ]
+    }
+  ]
+}
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 2720.0073494315147,
+      "words": [
+        "no",
+        "consonants",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 2714.720900475979,
+      "words": [
+        "no",
+        "consonant",
+        "e",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 4,
+      "score": 2713.5421922802925,
+      "words": [
+        "no",
+        "consonant",
+        "t",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 5,
+      "score": 2713.297482728958,
+      "words": [
+        "no",
+        "consonant",
+        "a",
+        "is",
+        "unique"
+      ]
+    }
+  ]
+}
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 2720.0073494315147,
+      "words": [
+        "no",
+        "consonants",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 2714.720900475979,
+      "words": [
+        "no",
+        "consonant",
+        "e",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 4,
+      "score": 2713.5421922802925,
+      "words": [
+        "no",
+        "consonant",
+        "t",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 5,
+      "score": 2713.297482728958,
+      "words": [
+        "no",
+        "consonant",
+        "a",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 6,
+      "score": 2712.62199819088,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique",
+        "i"
+      ]
+    }
+  ]
+}
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 2720.0073494315147,
+      "words": [
+        "no",
+        "consonants",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 2714.720900475979,
+      "words": [
+        "no",
+        "consonant",
+        "e",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 4,
+      "score": 2713.5421922802925,
+      "words": [
+        "no",
+        "consonant",
+        "t",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 5,
+      "score": 2713.297482728958,
+      "words": [
+        "no",
+        "consonant",
+        "a",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 6,
+      "score": 2712.62199819088,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique",
+        "i"
+      ]
+    },
+    {
+      "rank": 7,
+      "score": 2711.962138414383,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "a",
+        "unique"
+      ]
+    }
+  ]
+}
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 2720.0073494315147,
+      "words": [
+        "no",
+        "consonants",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 2714.720900475979,
+      "words": [
+        "no",
+        "consonant",
+        "e",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 4,
+      "score": 2713.5421922802925,
+      "words": [
+        "no",
+        "consonant",
+        "t",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 5,
+      "score": 2713.297482728958,
+      "words": [
+        "no",
+        "consonant",
+        "a",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 6,
+      "score": 2712.62199819088,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique",
+        "i"
+      ]
+    },
+    {
+      "rank": 7,
+      "score": 2711.962138414383,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "a",
+        "unique"
+      ]
+    },
+    {
+      "rank": 8,
+      "score": 2711.384360074997,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique",
+        "s"
+      ]
+    }
+  ]
+}
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 2720.0073494315147,
+      "words": [
+        "no",
+        "consonants",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 2714.720900475979,
+      "words": [
+        "no",
+        "consonant",
+        "e",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 4,
+      "score": 2713.5421922802925,
+      "words": [
+        "no",
+        "consonant",
+        "t",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 5,
+      "score": 2713.297482728958,
+      "words": [
+        "no",
+        "consonant",
+        "a",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 6,
+      "score": 2712.62199819088,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique",
+        "i"
+      ]
+    },
+    {
+      "rank": 7,
+      "score": 2711.962138414383,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "a",
+        "unique"
+      ]
+    },
+    {
+      "rank": 8,
+      "score": 2711.384360074997,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique",
+        "s"
+      ]
+    },
+    {
+      "rank": 9,
+      "score": 2710.223328113556,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "e",
+        "unique"
+      ]
+    }
+  ]
+}
+{
+  "wav": "../../benchmark/21/wav/aiden-a-7.wav",
+  "utt_id": "aiden-a-7",
+  "nbest": [
+    {
+      "rank": 1,
+      "score": 2730.547747194767,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 2720.0073494315147,
+      "words": [
+        "no",
+        "consonants",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 2714.720900475979,
+      "words": [
+        "no",
+        "consonant",
+        "e",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 4,
+      "score": 2713.5421922802925,
+      "words": [
+        "no",
+        "consonant",
+        "t",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 5,
+      "score": 2713.297482728958,
+      "words": [
+        "no",
+        "consonant",
+        "a",
+        "is",
+        "unique"
+      ]
+    },
+    {
+      "rank": 6,
+      "score": 2712.62199819088,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique",
+        "i"
+      ]
+    },
+    {
+      "rank": 7,
+      "score": 2711.962138414383,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "a",
+        "unique"
+      ]
+    },
+    {
+      "rank": 8,
+      "score": 2711.384360074997,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique",
+        "s"
+      ]
+    },
+    {
+      "rank": 9,
+      "score": 2710.223328113556,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "e",
+        "unique"
+      ]
+    },
+    {
+      "rank": 10,
+      "score": 2709.3856930732727,
+      "words": [
+        "no",
+        "consonant",
+        "is",
+        "unique",
+        "e"
+      ]
+    }
+  ]
+}
